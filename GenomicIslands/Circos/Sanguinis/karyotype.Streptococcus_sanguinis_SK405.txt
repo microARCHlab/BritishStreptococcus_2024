@@ -1,0 +1,9 @@
+chr	-	S.sanguinisNZ_GL872310.1	S.sanguinisNZ_GL872310.1	0	156076	blue
+chr	-	S.sanguinisNZ_GL872311.1	S.sanguinisNZ_GL872311.1	0	1356962	blue
+chr	-	S.sanguinisNZ_GL872312.1	S.sanguinisNZ_GL872312.1	0	396295	blue
+chr	-	S.sanguinisNZ_GL872313.1	S.sanguinisNZ_GL872313.1	0	4831	blue
+chr	-	S.sanguinisNZ_GL872314.1	S.sanguinisNZ_GL872314.1	0	381506	blue
+chr	-	S.sanguinisNZ_GL872315.1	S.sanguinisNZ_GL872315.1	0	751	blue
+chr	-	S.sanguinisNZ_GL872316.1	S.sanguinisNZ_GL872316.1	0	712	blue
+chr	-	S.sanguinisNZ_GL872317.1	S.sanguinisNZ_GL872317.1	0	656	blue
+chr	-	S.sanguinisNZ_GL872318.1	S.sanguinisNZ_GL872318.1	0	500	blue

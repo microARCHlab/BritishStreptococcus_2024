@@ -1,0 +1,273 @@
+GI-1-	Predicted by at least one method	WP_002901740.1	HMPREF9390_RS00195	DNA-directed RNA polymerase subunit beta
+GI-1-	Predicted by at least one method	WP_002901737.1	HMPREF9390_RS00200	DNA-directed RNA polymerase subunit beta'
+GI-2-	Predicted by at least one method	WP_032910656.1	HMPREF9390_RS0111200	DUF308 domain-containing protein
+GI-2-	Predicted by at least one method	WP_002901664.1	HMPREF9390_RS00425	helix-turn-helix transcriptional regulator
+GI-2-	Predicted by at least one method	WP_235787679.1	HMPREF9390_RS11620	hypothetical protein
+GI-2-	Predicted by at least one method	WP_002901662.1	HMPREF9390_RS00430	hypothetical protein
+GI-2-	Predicted by at least one method	WP_000369785.1	HMPREF9390_RS00435	DUF3173 domain-containing protein
+GI-2-	Predicted by at least one method	WP_002901661.1	HMPREF9390_RS00440	site-specific integrase
+GI-2-	Inferred	WP_002901666.1	HMPREF9390_RS00420	low temperature requirement protein A
+GI-3-	Predicted by at least one method	WP_002901650.1	HMPREF9390_RS00490	DUF1310 family protein
+GI-3-	Predicted by at least one method	WP_002901648.1	HMPREF9390_RS00495	DUF1310 family protein
+GI-3-	Predicted by at least one method	WP_002901647.1	HMPREF9390_RS00500	DUF1310 family protein
+GI-3-	Predicted by at least one method	WP_002901645.1	HMPREF9390_RS00505	DUF2974 domain-containing protein
+GI-3-	Predicted by at least one method	WP_002901643.1	HMPREF9390_RS00510	hypothetical protein
+GI-3-	Predicted by at least one method	WP_002901642.1	HMPREF9390_RS00515	hypothetical protein
+GI-4-	Predicted by at least one method	WP_002901331.1	HMPREF9390_RS01610	hypothetical protein
+GI-4-	Predicted by at least one method	WP_002901329.1	HMPREF9390_RS01615	restriction endonuclease subunit S
+GI-4-	Predicted by at least one method	WP_235787678.1	HMPREF9390_RS01620	hypothetical protein
+GI-4-	Predicted by at least one method	WP_002901327.1	HMPREF9390_RS01625	nucleotidyltransferase
+GI-4-	Predicted by at least one method		HMPREF9390_RS11930	type II toxin-antitoxin system RelE/ParE family toxin
+GI-4-	Predicted by at least one method		HMPREF9390_RS01630	helix-turn-helix transcriptional regulator
+GI-5-	Predicted by at least one method	WP_002900767.1	HMPREF9390_RS05285	GBS Bsp-like repeat-containing protein
+GI-5-	Predicted by at least one method	WP_002900765.1	HMPREF9390_RS05290	DUF6287 domain-containing protein
+GI-5-	Predicted by at least one method	WP_002900763.1	HMPREF9390_RS05295	hypothetical protein
+GI-5-	Inferred	WP_235787674.1	HMPREF9390_RS05280	WP_235787674.1
+GI-6-	Predicted by at least one method		HMPREF9390_RS11895	
+GI-6-	Predicted by at least one method		HMPREF9390_RS05505	
+GI-6-	Predicted by at least one method	WP_002900714.1	HMPREF9390_RS05500	hypothetical protein
+GI-6-	Predicted by at least one method	WP_032910512.1	HMPREF9390_RS05495	hypothetical protein
+GI-6-	Predicted by at least one method	WP_002900716.1	HMPREF9390_RS05490	hypothetical protein
+GI-6-	Predicted by at least one method	WP_002900718.1	HMPREF9390_RS05485	hypothetical protein
+GI-6-	Predicted by at least one method	WP_232011351.1	HMPREF9390_RS05475	hypothetical protein
+GI-6-	Inferred	WP_002900721.1	HMPREF9390_RS05470	hypothetical protein
+GI-6-	Inferred	WP_002900722.1	HMPREF9390_RS05465	hypothetical protein
+GI-6-	Inferred	WP_002900723.1	HMPREF9390_RS05460	hypothetical protein
+GI-6-	Inferred	WP_002900725.1	HMPREF9390_RS05450	hypothetical protein
+GI-6-	Inferred	WP_002900727.1	HMPREF9390_RS05445	hypothetical protein
+GI-6-	Inferred	WP_002900729.1	HMPREF9390_RS05440	hypothetical protein
+GI-7-	Predicted by at least one method	WP_080555460.1	HMPREF9390_RS11395	accessory Sec-dependent serine-rich glycoprotein adhesin
+GI-8-	Predicted by at least one method	WP_002900570.1	HMPREF9390_RS06175	hypothetical protein
+GI-8-	Predicted by at least one method	WP_002900569.1	HMPREF9390_RS06180	hypothetical protein
+GI-8-	Predicted by at least one method	WP_002900568.1	HMPREF9390_RS06185	hypothetical protein
+GI-8-	Predicted by at least one method		HMPREF9390_RS0111100	hypothetical protein
+GI-8-	Predicted by at least one method	WP_002900565.1	HMPREF9390_RS06190	hypothetical protein
+GI-8-	Predicted by at least one method	WP_002900564.1	HMPREF9390_RS06195	hypothetical protein
+GI-9	Predicted by at least one method	WP_002900367.1	HMPREF9390_RS07200	hypothetical protein
+GI-9	Predicted by at least one method	WP_225893209.1	HMPREF9390_RS07195	methylase
+GI-9	Predicted by at least one method	WP_002900369.1	HMPREF9390_RS07190	hypothetical protein
+GI-9	Predicted by at least one method	WP_002900370.1	HMPREF9390_RS07185	helix-turn-helix transcriptional regulator
+GI-9	Predicted by at least one method	WP_000985761.1	HMPREF9390_RS07180	hypothetical protein
+GI-9	Inferred	WP_002900371.1	HMPREF9390_RS07175	AAA family ATPase
+GI-9	Inferred	WP_032910428.1	HMPREF9390_RS07170	hypothetical protein
+GI-9	Inferred	WP_002900373.1	HMPREF9390_RS07165	replication protein
+GI-9	Inferred	WP_001086263.1	HMPREF9390_RS07160	DUF3173 domain-containing protein
+GI-9	Inferred	WP_002900374.1	HMPREF9390_RS07155	tyrosine-type recombinase/integrase
+GI-10	Predicted by at least one method	WP_231077293.1	HMPREF9390_RS08535	HNH endonuclease signature motif containing protein
+GI-10	Predicted by at least one method	WP_002900057.1	HMPREF9390_RS08540	AAA family ATPase
+GI-10	Predicted by at least one method	WP_002903102.1	HMPREF9390_RS11875	DUF5966 family protein
+GI-10	Predicted by at least one method	WP_002900056.1	HMPREF9390_RS08545	hypothetical protein
+GI-11	Predicted by at least one method	WP_002899769.1	HMPREF9390_RS09890	hypothetical protein
+GI-11	Predicted by at least one method	WP_002899768.1	HMPREF9390_RS09895	class I SAM-dependent methyltransferase
+GI-11	Predicted by at least one method	WP_002899767.1	HMPREF9390_RS09900	ABC transporter permease
+GI-11	Predicted by at least one method	WP_002899765.1	HMPREF9390_RS09905	ABC transporter ATP-binding protein
+GI-11	Predicted by at least one method		HMPREF9390_RS09910	TetR/AcrR family transcriptional regulator
+GI-12	Predicted by at least one method	WP_002899698.1	HMPREF9390_RS10140	hypothetical protein
+GI-12	Predicted by at least one method	WP_002899697.1	HMPREF9390_RS10145	ATP-binding protein
+GI-12	Predicted by at least one method	WP_002899696.1	HMPREF9390_RS10150	DNA cytosine methyltransferase
+GI-13	Predicted by at least one method		HMPREF9390_RS11910	diacylglycerol kinase family lipid kinase
+GI-13	Predicted by at least one method		HMPREF9390_RS11860	IS982 family transposase
+GI-13	Predicted by at least one method	WP_037614148.1	HMPREF9390_RS11760	hypothetical protein
+GI-13	Predicted by at least one method	WP_002893760.1	HMPREF9390_RS03360	DUF1269 domain-containing protein
+GI-13	Predicted by at least one method	WP_002893762.1	HMPREF9390_RS03355	tyrosine-type recombinase/integrase
+GI-14	Inferred	WP_002902249.1	HMPREF9390_RS11840	hypothetical protein
+GI-14	Inferred	WP_002902247.1	HMPREF9390_RS03205	type II toxin-antitoxin system YafQ family toxin
+GI-14	Inferred	WP_002902245.1	HMPREF9390_RS03200	type II toxin-antitoxin system RelB/DinJ family antitoxin
+GI-14	Predicted by at least one method	WP_004184279.1	HMPREF9390_RS03195	DUF262 domain-containing protein
+GI-14	Predicted by at least one method	WP_002902243.1	HMPREF9390_RS03190	DUF262 domain-containing protein
+GI-14	Predicted by at least one method	WP_002902242.1	HMPREF9390_RS11960	hypothetical protein
+GI-14	Predicted by at least one method	WP_002902241.1	HMPREF9390_RS03185	WYL domain-containing protein
+GI-14	Predicted by at least one method	WP_002902240.1	HMPREF9390_RS03180	hypothetical protein
+GI-14	Predicted by at least one method		HMPREF9390_RS03175	IS200/IS605 family transposase
+GI-15	Predicted by at least one method	WP_002899631.1	HMPREF9390_RS10500	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899632.1	HMPREF9390_RS10495	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899633.1	HMPREF9390_RS10490	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899634.1	HMPREF9390_RS10485	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899635.1	HMPREF9390_RS10480	hypothetical protein
+GI-15	Predicted by at least one method		HMPREF9390_RS10475	FtsK/SpoIIIE domain-containing protein
+GI-15	Predicted by at least one method		HMPREF9390_RS10470	type VII secretion protein EssC
+GI-15	Predicted by at least one method	WP_002899639.1	HMPREF9390_RS10465	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899640.1	HMPREF9390_RS10460	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899642.1	HMPREF9390_RS10455	hypothetical protein
+GI-15	Predicted by at least one method	WP_002899644.1	HMPREF9390_RS10450	hypothetical protein
+GI-15	Predicted by at least one method	WP_032909139.1	HMPREF9390_RS10440	hypothetical protein
+GI-16	Inferred	WP_002900034.1	HMPREF9390_RS08630	hypothetical protein
+GI-16	Inferred	WP_002900035.1	HMPREF9390_RS08625	hypothetical protein
+GI-16	Inferred	WP_002900036.1	HMPREF9390_RS08620	hypothetical protein
+GI-16	Inferred	WP_002900038.1	HMPREF9390_RS08615	hypothetical protein
+GI-17	Inferred	WP_231077294.1	HMPREF9390_RS09175	restriction endonuclease subunit S
+GI-17	Inferred	WP_002899914.1	HMPREF9390_RS09170	restriction endonuclease subunit S
+GI-17	Inferred	WP_002899915.1	HMPREF9390_RS09165	tyrosine-type recombinase/integrase
+GI-17	Inferred	WP_002899916.1	HMPREF9390_RS11290	restriction endonuclease subunit S
+GI-17	Paper	WP_002899917.1	HMPREF9390_RS09160	hypothetical protein
+GI-18	Inferred	WP_002899754.1	HMPREF9390_RS09935	TetR/AcrR family transcriptional regulator
+GI-18	Inferred	WP_002899756.1	HMPREF9390_RS09930	MATE family efflux transporter
+GI-18	Inferred	WP_002899758.1	HMPREF9390_RS09925	MGMT family protein
+GI-19	Inferred	WP_002900150.1	HMPREF9390_RS08120	DUF4097 family beta strand repeat-containing protein
+GI-19	Inferred	WP_002900151.1	HMPREF9390_RS08115	MFS transporter
+GI-19	Inferred	WP_002900152.1	HMPREF9390_RS08110	TetR/AcrR family transcriptional regulator
+GI-19	Inferred	WP_002900153.1	HMPREF9390_RS08105	TraX family protein
+GI-20	Inferred		HMPREF9390_RS11885	
+GI-20	Inferred	WP_002903046.1	HMPREF9390_RS08035	hypothetical protein
+GI-20	Inferred	WP_002900172.1	HMPREF9390_RS08030	8-oxo-dGTP diphosphatase
+GI-20	Inferred	WP_023916345.1	HMPREF9390_RS08025	hypothetical protein
+GI-21	Inferred	WP_002900191.1	HMPREF9390_RS07965	hypothetical protein
+GI-21	Inferred	WP_002900193.1	HMPREF9390_RS07960	NAD glycohydrolase inhibitor
+GI-21	Inferred	WP_002900194.1	HMPREF9390_RS07955	hypothetical protein
+GI-22	Inferred	WP_002902216.1	HMPREF9390_RS03075	hypothetical protein
+GI-22	Inferred	WP_002902215.1	HMPREF9390_RS03070	DUF4176 domain-containing protein
+GI-22	Inferred	WP_004184281.1	HMPREF9390_RS03065	hypothetical protein
+GI-22	Inferred	WP_002902213.1	HMPREF9390_RS03060	hypothetical protein
+GI-22	Inferred	WP_002902212.1	HMPREF9390_RS03055	TIGR04197 family type VII secretion effector
+GI-23	Inferred	WP_002900407.1	HMPREF9390_RS06975	HAMP domain-containing sensor histidine kinase
+GI-23	Inferred	WP_011836929.1	HMPREF9390_RS06970	response regulator transcription factor
+GI-23	Inferred	WP_002900409.1	HMPREF9390_RS06965	YSIRK signal domain/LPXTG anchor domain surface protein
+GI-24-1	Inferred	WP_002900541.1	HMPREF9390_RS06310	hypothetical protein
+GI-24-1	Inferred	WP_002900542.1	HMPREF9390_RS06305	hypothetical protein
+GI-24-1	Inferred	WP_002900543.1	HMPREF9390_RS06300	DUF2974 domain-containing protein
+GI-24-2	Inferred	WP_002900544.1	HMPREF9390_RS06295	hypothetical protein
+GI-24-2	Inferred	WP_002900545.1	HMPREF9390_RS06290	hypothetical protein
+GI-24-2	Inferred	WP_002900546.1	HMPREF9390_RS06285	hypothetical protein
+GI-24-2	Inferred		HMPREF9390_RS11890	
+GI-25	Inferred	WP_002900558.1	HMPREF9390_RS06220	SDR family NAD(P)-dependent oxidoreductase
+GI-25	Inferred	WP_002900559.1	HMPREF9390_RS06215	multidrug efflux SMR transporter
+GI-25	Inferred	WP_002900560.1	HMPREF9390_RS06210	helix-turn-helix transcriptional regulator
+GI-26	Inferred	WP_032909939.1	HMPREF9390_RS02665	PTS glucitol/sorbitol transporter subunit IIA
+GI-26	Inferred	WP_002916654.1	HMPREF9390_RS02660	PTS glucitol/sorbitol transporter subunit IIB
+GI-26	Inferred	WP_002899205.1	HMPREF9390_RS02655	PTS glucitol/sorbitol transporter subunit IIC
+GI-26	Inferred	WP_002899206.1	HMPREF9390_RS02650	transcriptional regulator GutM
+GI-26	Inferred	WP_080555469.1	HMPREF9390_RS02645	PTS sugar transporter subunit IIA
+GI-26	Inferred	WP_002916657.1	HMPREF9390_RS02640	SDR family oxidoreductase
+GI-26	Inferred	WP_002916659.1	HMPREF9390_RS02635	glucose-6-phosphate isomerase
+GI-27	Inferred	WP_002901342.1	HMPREF9390_RS01520	J domain-containing protein
+GI-27	Inferred	WP_002901343.1	HMPREF9390_RS01515	molecular chaperone HscC
+GI-28	Inferred	WP_032910626.1	HMPREF9390_RS01150	heavy metal translocating P-type ATPase
+GI-28	Inferred	WP_002901455.1	HMPREF9390_RS01145	cupredoxin domain-containing protein
+GI-28	Inferred	WP_002901456.1	HMPREF9390_RS01140	CopY/TcrY family copper transport repressor
+GI-29	Inferred	WP_002901580.1	HMPREF9390_RS00715	AraC family transcriptional regulator
+GI-29	Inferred	WP_002901581.1	HMPREF9390_RS00710	oxidoreductase
+GI-29	Inferred	WP_032910654.1	HMPREF9390_RS00705	low temperature requirement protein A
+GI-30	Inferred	WP_002901790.1	HMPREF9390_RS00060	metallophosphoesterase
+GI-30	Inferred	WP_095463760.1	HMPREF9390_RS00055	protein ninH
+GI-30	Inferred	WP_002901792.1	HMPREF9390_RS00050	recombination protein NinG
+GI-31	Inferred	WP_002900493.1	HMPREF9390_RS06545	hypothetical protein
+GI-31	Inferred	WP_002900495.1	HMPREF9390_RS06540	hypothetical protein
+GI-31	Inferred	WP_002900496.1	HMPREF9390_RS06535	hypothetical protein
+GI-31	Inferred	WP_002900497.1	HMPREF9390_RS06530	hypothetical protein
+GI-31	Inferred	WP_032908186.1	HMPREF9390_RS06525	hypothetical protein
+GI-32	Inferred	WP_002900218.1	HMPREF9390_RS07845	hypothetical protein
+GI-32	Inferred	WP_002900219.1	HMPREF9390_RS07840	potassium transporter Trk
+GI-32	Inferred	WP_032908155.1	HMPREF9390_RS07835	TrkA family potassium uptake protein
+GI-32	Inferred	WP_002900222.1	HMPREF9390_RS07830	GNAT family N-acetyltransferase
+GI-32	Inferred	WP_231078191.1	HMPREF9390_RS11340	VOC family protein
+GI-32	Inferred	WP_002900224.1	HMPREF9390_RS07825	alpha/beta hydrolase
+GI-32	Inferred	WP_002900225.1	HMPREF9390_RS07820	hypothetical protein
+GI-33	Inferred	WP_002901159.1	HMPREF9390_RS03940	ABC transporter ATP-binding protein
+GI-33	Inferred	WP_002901161.1	HMPREF9390_RS03935	energy-coupling factor transporter transmembrane component T
+GI-33	Inferred	WP_002901162.1	HMPREF9390_RS03930	MptD family putative ECF transporter S component
+GI-33	Inferred	WP_002901163.1	HMPREF9390_RS03925	ABC transporter ATP-binding protein
+GI-33	Inferred	WP_002901164.1	HMPREF9390_RS03920	ABC transporter ATP-binding protein
+GI-33	Inferred	WP_002901166.1	HMPREF9390_RS03915	AraC family transcriptional regulator
+GI-34	Inferred	WP_000825751.1	HMPREF9390_RS03405	potassium channel family protein
+GI-34	Inferred	WP_000397555.1	HMPREF9390_RS03400	hypothetical protein
+GI-34	Inferred	WP_006151097.1	HMPREF9390_RS11495	TMEM175 family protein
+GI-34	Inferred	WP_225915803.1	HMPREF9390_RS03395	hypothetical protein
+GI-34	Inferred	WP_023024363.1	HMPREF9390_RS11955	hypothetical protein
+GI-35	Inferred	WP_002916527.1	HMPREF9390_RS03120	transcription antiterminator
+GI-35	Inferred	WP_002916529.1	HMPREF9390_RS03115	L-ribulose-5-phosphate 4-epimerase
+GI-35	Inferred	WP_002916530.1	HMPREF9390_RS03110	L-ribulose-5-phosphate 3-epimerase
+GI-35	Inferred	WP_032909969.1	HMPREF9390_RS03105	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+GI-35	Inferred	WP_032909924.1	HMPREF9390_RS03100	PTS sugar transporter subunit IIA
+GI-35	Inferred	WP_002899074.1	HMPREF9390_RS03095	PTS sugar transporter subunit IIB
+GI-36	Inferred	WP_002901448.1	HMPREF9390_RS01180	amino acid ABC transporter permease
+GI-36	Inferred	WP_002901449.1	HMPREF9390_RS01175	amino acid ABC transporter permease
+GI-36	Inferred	WP_002901450.1	HMPREF9390_RS01170	amino acid ABC transporter ATP-binding protein
+GI-36	Inferred	WP_002901451.1	HMPREF9390_RS01165	cysteine ABC transporter substrate-binding protein
+GI-37	Paper	WP_002900217.1	HMPREF9390_RS07860	hypothetical protein
+GI-38	Paper	WP_002900101.1	HMPREF9390_RS08365	HpcH/HpaI aldolase/citrate lyase family protein
+GI-38	Paper	WP_002900102.1	HMPREF9390_RS08360	hypothetical protein
+GI-38	Paper	WP_002900103.1	HMPREF9390_RS08355	calcium-translocating P-type ATPase, PMCA-type
+GI-38	Paper	WP_002900104.1	HMPREF9390_RS08350	TerD family protein
+GI-38	Paper	WP_002900105.1	HMPREF9390_RS08345	TerD family protein
+GI-38	Paper	WP_002900106.1	HMPREF9390_RS08340	TerD family protein
+GI-38	Paper	WP_002900107.1	HMPREF9390_RS08335	toxic anion resistance protein
+GI-38	Paper	WP_002900108.1	HMPREF9390_RS08330	hypothetical protein
+GI-38	Paper	WP_002900109.1	HMPREF9390_RS08325	cysteine protease StiP family protein
+GI-38	Paper	WP_002900110.1	HMPREF9390_RS08320	phosphoribosyltransferase domain-containing protein
+GI-39	Inferred		HMPREF9390_RS11850	uncharacterized gene
+GI-39	Paper	WP_002901479.1	HMPREF9390_RS01045	TetR/AcrR family transcriptional regulator
+GI-39	Paper	WP_002901481.1	HMPREF9390_RS01040	NADP-dependent oxidoreductase
+GI-40	Paper	WP_002913984.1	HMPREF9390_RS03575	FtsX-like permease family protein
+GI-40	Paper	WP_023917205.1	HMPREF9390_RS03570	ABC transporter ATP-binding protein
+GI-41	Paper	WP_002900502.1	HMPREF9390_RS06505	MucBP domain-containing protein
+GI-41	Paper	WP_002900503.1	HMPREF9390_RS06500	glycosyltransferase
+GI-42	Paper	WP_032910412.1	HMPREF9390_RS07670	alpha/beta hydrolase
+GI-42	Paper	WP_002900261.1	HMPREF9390_RS07665	hypothetical protein
+GI-43	Paper	WP_002900233.1	HMPREF9390_RS07780	DUF4274 domain-containing protein
+GI-43	Inferred		HMPREF9390_RS07775	
+GI-44	Inferred	WP_002899835.1	HMPREF9390_RS09555	ABC transporter permease
+GI-44	Inferred	WP_002899836.1	HMPREF9390_RS09550	LytTR family DNA-binding domain-containing protein
+GI-44	Inferred	WP_002899837.1	HMPREF9390_RS09545	DUF3021 domain-containing protein
+GI-44	Inferred	WP_002899838.1	HMPREF9390_RS09540	hypothetical protein
+GI-44	Paper	WP_002899839.1	HMPREF9390_RS09535	DUF600 family protein
+GI-45	Paper	WP_002899927.1	HMPREF9390_RS09105	hypothetical protein
+GI-46	Paper	WP_002902394.1	HMPREF9390_RS03635	SemiSWEET family transporter
+GI-47	Paper	WP_002900582.1	HMPREF9390_RS06115	alpha/beta hydrolase
+GI-47	Inferred	WP_002900583.1	HMPREF9390_RS06110	hypothetical protein
+GI-47	Paper	WP_002900584.1	HMPREF9390_RS06105	GNAT family N-acetyltransferase
+GI-47	Inferred	WP_002900585.1	HMPREF9390_RS06100	hypothetical protein
+GI-47	Inferred	WP_002900586.1	HMPREF9390_RS06095	DUF2130 domain-containing protein
+GI-47	Paper	WP_002900587.1	HMPREF9390_RS06090	hypothetical protein
+GI-48	Inferred	WP_002899791.1	HMPREF9390_RS09795	glutathione S-transferase
+GI-48	Inferred	WP_002899793.1	HMPREF9390_RS09790	magnesium-translocating P-type ATPase
+GI-49	Inferred	WP_002899600.1	HMPREF9390_RS10635	prepilin-type N-terminal cleavage/methylation domain-containing protein
+GI-49	Inferred	WP_002899602.1	HMPREF9390_RS10630	hypothetical protein
+GI-50	Inferred	WP_002901072.1	HMPREF9390_RS04215	hypothetical protein
+GI-50	Inferred	WP_002901074.1	HMPREF9390_RS04210	hypothetical protein
+GI-51	Inferred	WP_223310420.1	HMPREF9390_RS02340	bacteriocin immunity protein
+GI-52	Inferred	WP_002901320.1	HMPREF9390_RS11225	DUF6287 domain-containing protein
+GI-52	Inferred	WP_002901321.1	HMPREF9390_RS11230	hypothetical protein
+GI-53	Inferred	WP_002901407.1	HMPREF9390_RS01310	hypothetical protein
+GI-53	Inferred	WP_004188649.1	HMPREF9390_RS01305	hypothetical protein
+GI-53	Inferred	WP_002901409.1	HMPREF9390_RS01300	hypothetical protein
+GI-54	Inferred	WP_004184474.1	HMPREF9390_RS02045	hypothetical protein
+GI-54	Inferred	WP_004184477.1	HMPREF9390_RS02040	hypothetical protein
+GI-55	Inferred	WP_032910565.1	HMPREF9390_RS03005	LLM class flavin-dependent oxidoreductase
+GI-56	Inferred	WP_002900415.1	HMPREF9390_RS06935	SMI1/KNR4 family protein
+GI-56	Inferred	WP_223322788.1	HMPREF9390_RS06930	HNH/ENDO VII family nuclease
+GI-56	Inferred	WP_002900417.1	HMPREF9390_RS06925	ATP-binding protein
+GI-56	Inferred	WP_002900418.1	HMPREF9390_RS06920	dynamin family protein
+GI-57	Inferred	WP_002900289.1	HMPREF9390_RS07550	DUF262 domain-containing protein
+GI-57	Inferred		HMPREF9390_RS11825	
+GI-57	Inferred	WP_002900292.1	HMPREF9390_RS07535	hypothetical protein
+GI-58	Inferred	WP_002900202.1	HMPREF9390_RS07915	NADPH-dependent F420 reductase
+GI-59	Inferred	WP_002901577.1	HMPREF9390_RS00730	TetR/AcrR family transcriptional regulator
+GI-59	Inferred	WP_002901578.1	HMPREF9390_RS00725	ABC transporter permease
+GI-59	Inferred	WP_002901579.1	HMPREF9390_RS00720	ABC transporter ATP-binding protein
+GI-60	Inferred	WP_002899817.1	HMPREF9390_RS11945	hypothetical protein
+GI-60	Inferred	WP_002899818.1	HMPREF9390_RS09670	DUF4230 domain-containing protein
+GI-61	Inferred	WP_002899929.1	HMPREF9390_RS09095	MerR family transcriptional regulator
+GI-61	Inferred	WP_002899930.1	HMPREF9390_RS09090	carboxymuconolactone decarboxylase family protein
+GI-61	Inferred	WP_002899932.1	HMPREF9390_RS09085	hypothetical protein
+GI-62	Inferred	WP_002900017.1	HMPREF9390_RS08695	hypothetical protein
+GI-63	Inferred		HMPREF9390_RS11335	
+GI-63	Inferred	WP_002900215.1	HMPREF9390_RS07870	hypothetical protein
+GI-64	Inferred	WP_002900606.1	HMPREF9390_RS06015	ABC transporter permease
+GI-64	Inferred	WP_023916091.1	HMPREF9390_RS06010	ABC transporter ATP-binding protein
+GI-64	Inferred	WP_023916089.1	HMPREF9390_RS06005	AbrB/MazE/SpoVT family DNA-binding domain-containing protein
+GI-65	Inferred	WP_002900653.1	HMPREF9390_RS05775	glucosyltransferase domain-containing protein
+GI-66	Inferred	WP_002900974.1	HMPREF9390_RS04610	hypothetical protein
+GI-67	Inferred	WP_002900993.1	HMPREF9390_RS04550	hypothetical protein
+GI-67	Inferred	WP_002900995.1	HMPREF9390_RS04545	helix-turn-helix transcriptional regulator
+GI-67	Inferred	WP_002900996.1	HMPREF9390_RS04540	hypothetical protein
+GI-68	Inferred	WP_002901007.1	HMPREF9390_RS04505	DUF4352 domain-containing protein
+GI-69	Inferred	WP_004184232.1	HMPREF9390_RS03430	dicarboxylate/amino acid:cation symporter
+GI-69	Inferred	WP_002926010.1	HMPREF9390_RS03425	hypothetical protein
+GI-69	Inferred	WP_002911689.1	HMPREF9390_RS03420	hypothetical protein
+GI-70	Inferred	WP_002901943.1	HMPREF9390_RS01990	hypothetical protein
+GI-71	Inferred	WP_002901425.1	HMPREF9390_RS01250	hypothetical protein
+GI-72	Inferred	WP_002900275.1	HMPREF9390_RS07615	hypothetical protein
+GI-73	Inferred	WP_002899982.1	HMPREF9390_RS08850	RNA polymerase sigma factor
+GI-73	Inferred	WP_002899983.1	HMPREF9390_RS08845	anti sigma factor C-terminal domain-containing protein
+GI-74	Inferred	WP_002899857.1	HMPREF9390_RS09455	hypothetical protein
+GI-74	Inferred	WP_032908745.1	HMPREF9390_RS09450	GNAT family N-acetyltransferase

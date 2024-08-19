@@ -1,0 +1,409 @@
+GI-1-	Predicted by at least one method	WP_062201524.1	STRDD04_RS08545	hypothetical protein
+GI-1-	Predicted by at least one method	WP_062201522.1	STRDD04_RS08540	hypothetical protein
+GI-1-	Predicted by at least one method	WP_062201521.1	STRDD04_RS08535	hypothetical protein
+GI-1-	Predicted by at least one method	WP_231853923.1	STRDD04_RS08530	hypothetical protein
+GI-1-	Predicted by at least one method	WP_062201519.1	STRDD04_RS11185	hypothetical protein
+GI-1-	Predicted by at least one method	WP_052076778.1	STRDD04_RS08520	hypothetical protein
+GI-2-	Predicted by at least one method	WP_062201437.1	STRDD04_RS08270	sugar transferase
+GI-2-	Predicted by at least one method	WP_062201435.1	STRDD04_RS08265	DegT/DnrJ/EryC1/StrS aminotransferase family protein
+GI-2-	Predicted by at least one method	WP_062201433.1	STRDD04_RS08260	LicD family protein
+GI-2-	Predicted by at least one method	WP_062201431.1	STRDD04_RS08255	IspD/TarI family cytidylyltransferase
+GI-2-	Predicted by at least one method	WP_062201430.1	STRDD04_RS08250	glycosyltransferase
+GI-2-	Predicted by at least one method	WP_062201664.1	STRDD04_RS08245	DUF616 domain-containing protein
+GI-2-	Predicted by at least one method	WP_062201428.1	STRDD04_RS08240	O-antigen ligase family protein
+GI-2-	Predicted by at least one method	WP_062201426.1	STRDD04_RS08235	lipopolysaccharide biosynthesis protein
+GI-2-	Predicted by at least one method	WP_231853922.1	STRDD04_RS08230	NAD(P)-dependent oxidoreductase
+GI-2-	Predicted by at least one method	WP_062201424.1	STRDD04_RS08225	UDP-glucuronate 4-epimerase Gla
+GI-3-	Predicted by at least one method	WP_062201412.1	STRDD04_RS08190	DNA-directed RNA polymerase subunit beta
+GI-3-	Predicted by at least one method	WP_062201410.1	STRDD04_RS08185	DNA-directed RNA polymerase subunit beta'
+GI-3-	Predicted by at least one method	WP_062201389.1	STRDD04_RS08180	sigma(X)-activator ComW
+GI-4-	Predicted by at least one method	WP_062201382.1	STRDD04_RS08155	hypothetical protein
+GI-4-	Predicted by at least one method	WP_197460090.1	STRDD04_RS10690	transposase
+GI-4-	Predicted by at least one method	WP_062201380.1	STRDD04_RS08145	SHIRT domain-containing protein
+GI-4-	Predicted by at least one method	WP_062201378.1	STRDD04_RS08140	hypothetical protein
+GI-4-	Predicted by at least one method	WP_062201375.1	STRDD04_RS08135	MucBP domain-containing protein
+GI-4-	Predicted by at least one method	WP_062201372.1	STRDD04_RS08130	30S ribosomal protein S2
+GI-4-	Predicted by at least one method	WP_062201369.1	STRDD04_RS08125	translation elongation factor Ts
+GI-4-	Predicted by at least one method	WP_062201366.1	STRDD04_RS08120	hypothetical protein
+GI-4-	Predicted by at least one method	WP_062201363.1	STRDD04_RS08115	hypothetical protein
+GI-4-	Predicted by at least one method	WP_062201357.1	STRDD04_RS08095	class C sortase
+GI-4-	Predicted by at least one method	WP_082757369.1	STRDD04_RS10685	MucBP domain-containing protein
+GI-4-	Predicted by at least one method		STRDD04_RS11180	cell wall protein
+GI-4-	Predicted by at least one method	WP_156469078.1	STRDD04_RS08080	LPXTG cell wall anchor domain-containing protein
+GI-4-	Predicted by at least one method	WP_062201354.1	STRDD04_RS08075	DeoR/GlpR family DNA-binding transcription regulator
+GI-5-	Predicted by at least one method	WP_231853919.1	STRDD04_RS08110	isopeptide-forming domain-containing fimbrial protein
+GI-5-	Predicted by at least one method		STRDD04_RS11540	SHIRT domain-containing protein
+GI-5-	Predicted by at least one method	WP_231853921.1	STRDD04_RS08105	LPXTG cell wall anchor domain-containing protein
+GI-5-	Predicted by at least one method	WP_062201360.1	STRDD04_RS08100	isopeptide-forming domain-containing fimbrial protein
+GI-6	Predicted by at least one method	WP_062201041.1	STRDD04_RS07345	site-specific integrase
+GI-6	Predicted by at least one method	WP_062201038.1	STRDD04_RS07340	helix-turn-helix domain-containing protein
+GI-6	Predicted by at least one method	WP_002299685.1	STRDD04_RS07335	type II toxin-antitoxin system PemK/MazF family toxin
+GI-6	Predicted by at least one method	WP_000162871.1	STRDD04_RS07330	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201036.1	STRDD04_RS07325	phage tail tip lysozyme
+GI-6	Predicted by at least one method	WP_062201033.1	STRDD04_RS07320	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201030.1	STRDD04_RS07315	hypothetical protein
+GI-6	Predicted by at least one method		STRDD04_RS07310	ATP-binding protein
+GI-6	Predicted by at least one method		STRDD04_RS07305	conjugal transfer protein
+GI-6	Predicted by at least one method	WP_062201028.1	STRDD04_RS07300	conjugal transfer protein
+GI-6	Predicted by at least one method	WP_017827907.1	STRDD04_RS07295	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201025.1	STRDD04_RS07290	conjugal transfer protein
+GI-6	Predicted by at least one method	WP_062201022.1	STRDD04_RS07285	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201020.1	STRDD04_RS07280	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201017.1	STRDD04_RS07275	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201012.1	STRDD04_RS07270	replication initiation factor domain-containing protein
+GI-6	Predicted by at least one method	WP_062201009.1	STRDD04_RS07265	FtsK/SpoIIIE domain-containing protein
+GI-6	Predicted by at least one method	WP_002922355.1	STRDD04_RS07260	DUF961 family protein
+GI-6	Predicted by at least one method	WP_062201006.1	STRDD04_RS07255	hypothetical protein
+GI-6	Predicted by at least one method	WP_062201001.1	STRDD04_RS07245	hypothetical protein
+GI-6	Predicted by at least one method	WP_062200998.1	STRDD04_RS07240	type II toxin-antitoxin system YafQ family toxin
+GI-6	Predicted by at least one method	WP_062200672.1	STRDD04_RS07235	type II toxin-antitoxin system RelB/DinJ family antitoxin
+GI-6	Predicted by at least one method	WP_156469071.1	STRDD04_RS11005	hypothetical protein
+GI-6	Predicted by at least one method	WP_000483806.1	STRDD04_RS07230	helix-turn-helix domain-containing protein
+GI-6	Predicted by at least one method	WP_070670859.1	STRDD04_RS07225	ImmA/IrrE family metallo-endopeptidase
+GI-6	Predicted by at least one method	WP_062200670.1	STRDD04_RS07220	P-loop NTPase fold protein
+GI-6	Predicted by at least one method		STRDD04_RS07215	alpha/beta hydrolase
+GI-6	Predicted by at least one method		STRDD04_RS11000	class I SAM-dependent methyltransferase
+GI-6	Predicted by at least one method	WP_004804273.1	STRDD04_RS07210	alpha/beta hydrolase
+GI-6	Predicted by at least one method	WP_049517558.1	STRDD04_RS07205	alpha/beta hydrolase
+GI-6	Predicted by at least one method	WP_229311722.1	STRDD04_RS07200	hypothetical protein
+GI-6	Predicted by at least one method	WP_229311721.1	STRDD04_RS07195	class I SAM-dependent methyltransferase
+GI-6	Predicted by at least one method		STRDD04_RS07190	DUF3847 domain-containing protein
+GI-6	Predicted by at least one method	WP_062200666.1	STRDD04_RS07185	acyl-CoA thioester hydrolase
+GI-6	Predicted by at least one method	WP_062200665.1	STRDD04_RS11510	hypothetical protein
+GI-6	Predicted by at least one method	WP_062200664.1	STRDD04_RS07175	hypothetical protein
+GI-6	Predicted by at least one method	WP_187423883.1	STRDD04_RS07170	AAA family ATPase
+GI-6	Predicted by at least one method	WP_062200663.1	STRDD04_RS07165	N-6 DNA methylase
+GI-9	Predicted by at least one method	WP_062199932.1	STRDD04_RS05175	helix-turn-helix transcriptional regulator
+GI-9	Predicted by at least one method	WP_062199934.1	STRDD04_RS05180	plasmid maintenance system killer protein
+GI-9	Predicted by at least one method	WP_062200573.1	STRDD04_RS05185	transcriptional regulator
+GI-9	Predicted by at least one method	WP_062199936.1	STRDD04_RS05190	type II toxin-antitoxin system RelB/DinJ family antitoxin
+GI-9	Predicted by at least one method	WP_231853888.1	STRDD04_RS05195	type II toxin-antitoxin system mRNA interferase toxin, RelE/StbE family
+GI-9	Predicted by at least one method	WP_062199938.1	STRDD04_RS05200	hypothetical protein
+GI-9	Predicted by at least one method	WP_062199940.1	STRDD04_RS05205	ImmA/IrrE family metallo-endopeptidase
+GI-9	Predicted by at least one method	WP_062199942.1	STRDD04_RS05210	helix-turn-helix transcriptional regulator
+GI-9	Predicted by at least one method	WP_082757347.1	STRDD04_RS05215	helix-turn-helix transcriptional regulator
+GI-9	Predicted by at least one method	WP_062199944.1	STRDD04_RS05220	hypothetical protein
+GI-9	Predicted by at least one method	WP_156469053.1	STRDD04_RS05225	hypothetical protein
+GI-9	Predicted by at least one method	WP_062199948.1	STRDD04_RS05230	hypothetical protein
+GI-9	Predicted by at least one method	WP_062199950.1	STRDD04_RS05235	hypothetical protein
+GI-9	Inferred	WP_062199952.1	STRDD04_RS05240	DUF853 family protein
+GI-9	Inferred	WP_062199954.1	STRDD04_RS05245	replication initiation factor domain-containing protein
+GI-9	Inferred	WP_062199957.1	STRDD04_RS05250	hypothetical protein
+GI-9	Inferred	WP_231853889.1	STRDD04_RS05255	hypothetical protein
+GI-9	Inferred	WP_062199959.1	STRDD04_RS05260	hypothetical protein
+GI-9	Inferred	WP_062199961.1	STRDD04_RS05265	hypothetical protein
+GI-9	Inferred	WP_062199963.1	STRDD04_RS05270	hypothetical protein
+GI-9	Inferred	WP_156469054.1	STRDD04_RS10945	hypothetical protein
+GI-9	Inferred	WP_062199965.1	STRDD04_RS05275	hypothetical protein
+GI-9	Inferred	WP_062199967.1	STRDD04_RS05280	hypothetical protein
+GI-9	Inferred	WP_062199969.1	STRDD04_RS05285	conjugal transfer protein
+GI-9	Inferred	WP_062199972.1	STRDD04_RS05290	TcpD family membrane protein
+GI-9	Inferred	WP_062199974.1	STRDD04_RS05295	TcpE family conjugal transfer membrane protein
+GI-9	Inferred	WP_231853890.1	STRDD04_RS05300	ATP-binding protein
+GI-9	Inferred	WP_062199976.1	STRDD04_RS05305	hypothetical protein
+GI-9	Inferred	WP_062199978.1	STRDD04_RS05310	phage tail tip lysozyme
+GI-9	Inferred	WP_062199980.1	STRDD04_RS05315	LPXTG cell wall anchor domain-containing protein
+GI-9	Inferred	WP_156469064.1	STRDD04_RS05320	LPXTG cell wall anchor domain-containing protein
+GI-9	Inferred	WP_062199985.1	STRDD04_RS05325	DUF3173 family protein
+GI-9	Inferred	WP_062199987.1	STRDD04_RS05330	site-specific integrase
+GI-10	Predicted by at least one method	WP_062200286.1	STRDD04_RS06120	histidine ammonia-lyase
+GI-10	Predicted by at least one method	WP_156469067.1	STRDD04_RS06125	IS30 family transposase
+GI-10	Predicted by at least one method	WP_062200289.1	STRDD04_RS06130	APC family permease
+GI-10	Predicted by at least one method	WP_062200292.1	STRDD04_RS06135	HutD family protein
+GI-10	Predicted by at least one method	WP_062200295.1	STRDD04_RS06140	formate--tetrahydrofolate ligase
+GI-10	Predicted by at least one method	WP_002926667.1	STRDD04_RS06145	cyclodeaminase/cyclohydrolase family protein
+GI-10	Predicted by at least one method	WP_062200298.1	STRDD04_RS06150	glutamate formimidoyltransferase
+GI-10	Predicted by at least one method	WP_062200300.1	STRDD04_RS06155	urocanate hydratase
+GI-11	Predicted by at least one method	WP_062200506.1	STRDD04_RS06625	nucleoside phosphorylase
+GI-11	Predicted by at least one method	WP_062200507.1	STRDD04_RS06630	ABC transporter ATP-binding protein
+GI-11	Predicted by at least one method	WP_062200509.1	STRDD04_RS06635	energy-coupling factor transporter transmembrane component T
+GI-11	Predicted by at least one method	WP_062200511.1	STRDD04_RS06640	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+GI-11	Predicted by at least one method	WP_062200512.1	STRDD04_RS06645	MFS transporter
+GI-11	Predicted by at least one method	WP_062200514.1	STRDD04_RS06650	TetR/AcrR family transcriptional regulator
+GI-11	Predicted by at least one method	WP_037615272.1	STRDD04_RS06655	LemA family protein
+GI-11	Predicted by at least one method	WP_231853904.1	STRDD04_RS11485	M48 family metalloprotease
+GI-11	Predicted by at least one method	WP_231853905.1	STRDD04_RS11490	M48 family metalloprotease
+GI-11	Predicted by at least one method		STRDD04_RS10605	IS3 family transposase
+GI-11	Predicted by at least one method	WP_062200516.1	STRDD04_RS06675	hypothetical protein
+GI-11	Predicted by at least one method	WP_062200518.1	STRDD04_RS06680	DUF177 domain-containing protein
+GI-11	Predicted by at least one method	WP_062200519.1	STRDD04_RS06685	flotillin family protein
+GI-11	Predicted by at least one method	WP_062200520.1	STRDD04_RS06690	NADP-dependent phosphogluconate dehydrogenase
+GI-11	Predicted by at least one method	WP_062200522.1	STRDD04_RS06695	response regulator transcription factor
+GI-11	Predicted by at least one method	WP_082757353.1	STRDD04_RS06700	PTS transporter subunit IIBC
+GI-12	Predicted by at least one method	WP_231853928.1	STRDD04_RS09770	DNA methyltransferase
+GI-12	Predicted by at least one method		STRDD04_RS09765	modification methylase
+GI-12	Predicted by at least one method	WP_062201878.1	STRDD04_RS09760	ATP-binding protein
+GI-12	Predicted by at least one method		STRDD04_RS11565	type I restriction-modification system subunit M
+GI-12	Predicted by at least one method	WP_231853927.1	STRDD04_RS11560	CPBP family intramembrane metalloprotease
+GI-14	Predicted by at least one method	WP_197460072.1	STRDD04_RS03190	G5 domain-containing protein
+GI-14	Inferred	WP_197460080.1	STRDD04_RS03195	beta galactosidase jelly roll domain-containing protein
+GI-14	Inferred	WP_156469042.1	STRDD04_RS03200	alpha-L-fucosidase
+GI-14	Inferred	WP_197460073.1	STRDD04_RS11135	G5 domain-containing protein
+GI-14	Inferred	WP_062199296.1	STRDD04_RS03210	beta-N-acetylglucosaminidase domain-containing protein
+GI-14	Inferred	WP_156469043.1	STRDD04_RS03215	LPXTG cell wall anchor domain-containing protein
+GI-14	Inferred	WP_197460074.1	STRDD04_RS10870	G5 domain-containing protein
+GI-14	Inferred	WP_197460075.1	STRDD04_RS11140	G5 domain-containing protein
+GI-14	Inferred	WP_082757335.1	STRDD04_RS10545	SpGH101 family endo-alpha-N-acetylgalactosaminidase
+GI-15-1	Predicted by at least one method	WP_156469028.1	STRDD04_RS02505	hypothetical protein
+GI-15-1	Predicted by at least one method	WP_156469027.1	STRDD04_RS02500	hypothetical protein
+GI-15-1	Inferred		STRDD04_RS11345	
+GI-15-2	Predicted by at least one method	WP_062199056.1	STRDD04_RS02490	hypothetical protein
+GI-16-1	Predicted by at least one method	WP_231853869.1	STRDD04_RS02460	hypothetical protein
+GI-16-1	Predicted by at least one method	WP_062199042.1	STRDD04_RS02455	hypothetical protein
+GI-16-1	Predicted by at least one method	WP_062199040.1	STRDD04_RS02450	SIR2 family protein
+GI-16-1	Predicted by at least one method	WP_037617617.1	STRDD04_RS02445	hypothetical protein
+GI-16-1	Predicted by at least one method	WP_062199038.1	STRDD04_RS02440	hypothetical protein
+GI-16-2	Predicted by at least one method	WP_062199028.1	STRDD04_RS02405	DUF1648 domain-containing protein
+GI-16-2	Predicted by at least one method		STRDD04_RS10850	hypothetical protein
+GI-16-2	Predicted by at least one method	WP_062199026.1	STRDD04_RS02395	hypothetical protein
+GI-17	Predicted by at least one method	WP_197460060.1	STRDD04_RS01060	hypothetical protein
+GI-17	Predicted by at least one method	WP_197460059.1	STRDD04_RS01055	hypothetical protein
+GI-17	Predicted by at least one method	WP_062198587.1	STRDD04_RS01050	FRG domain-containing protein
+GI-17	Predicted by at least one method	WP_062198585.1	STRDD04_RS01045	hypothetical protein
+GI-17	Predicted by at least one method	WP_062198584.1	STRDD04_RS01040	RAMP superfamily CRISPR-associated protein
+GI-17	Inferred	WP_062198577.1	STRDD04_RS01020	RAMP superfamily CRISPR-associated protein
+GI-17	Inferred	WP_062198579.1	STRDD04_RS01025	CRISPR-associated protein Csx19
+GI-17	Inferred	WP_062198580.1	STRDD04_RS01030	STRDD04_RS01025
+GI-17	Inferred	WP_062198582.1	STRDD04_RS01035	hypothetical protein
+GI-18	Predicted by at least one method	WP_197460057.1	STRDD04_RS11075	hypothetical protein
+GI-18	Predicted by at least one method	WP_062198325.1	STRDD04_RS00215	hypothetical protein
+GI-18	Predicted by at least one method	WP_231853851.1	STRDD04_RS00210	hypothetical protein
+GI-18	Predicted by at least one method	WP_062198323.1	STRDD04_RS00205	recombinase family protein
+GI-18	Predicted by at least one method	WP_197460056.1	STRDD04_RS00200	hypothetical protein
+GI-18	Inferred	WP_062198312.1	STRDD04_RS00170	recombinase family protein
+GI-18	Inferred	WP_062198314.1	STRDD04_RS00175	replication-relaxation family protein
+GI-18	Inferred	WP_231853848.1	STRDD04_RS11240	hypothetical protein
+GI-18	Inferred	WP_231853849.1	STRDD04_RS11245	hypothetical protein
+GI-18	Inferred	WP_231853850.1	STRDD04_RS00180	type IV secretion system DNA-binding domain-containing protein
+GI-18	Inferred	WP_197460055.1	STRDD04_RS11070	hypothetical protein
+GI-18	Inferred	WP_062198316.1	STRDD04_RS00185	hypothetical protein
+GI-18	Inferred	WP_062198318.1	STRDD04_RS00190	hypothetical protein
+GI-18	Inferred	WP_062198320.1	STRDD04_RS00195	hypothetical protein
+GI-19	Predicted by at least one method	WP_062201677.1	STRDD04_RS09020	glutamate-cysteine ligase family protein
+GI-19	Predicted by at least one method	WP_197460095.1	STRDD04_RS09025	transposase
+GI-19	Predicted by at least one method	WP_005591286.1	STRDD04_RS09030	50S ribosomal protein L17
+GI-19	Predicted by at least one method	WP_037617749.1	STRDD04_RS09035	DNA-directed RNA polymerase subunit alpha
+GI-19	Predicted by at least one method	WP_001118386.1	STRDD04_RS09040	30S ribosomal protein S11
+GI-19	Predicted by at least one method	WP_062201679.1	STRDD04_RS09045	30S ribosomal protein S13
+GI-19	Predicted by at least one method	WP_001808836.1	STRDD04_RS10730	50S ribosomal protein L36
+GI-19	Predicted by at least one method	WP_001029883.1	STRDD04_RS09050	translation initiation factor IF-1
+GI-19	Predicted by at least one method	WP_037617752.1	STRDD04_RS09055	adenylate kinase
+GI-19	Predicted by at least one method	WP_062201681.1	STRDD04_RS09060	preprotein translocase subunit SecY
+GI-19	Predicted by at least one method	WP_045498220.1	STRDD04_RS09065	50S ribosomal protein L15
+GI-19	Predicted by at least one method	WP_003029471.1	STRDD04_RS09070	50S ribosomal protein L30
+GI-19	Predicted by at least one method	WP_037617759.1	STRDD04_RS09075	30S ribosomal protein S5
+GI-19	Predicted by at least one method	WP_005592009.1	STRDD04_RS09080	50S ribosomal protein L18
+GI-19	Predicted by at least one method	WP_062201683.1	STRDD04_RS09085	50S ribosomal protein L6
+GI-19	Predicted by at least one method	WP_002899666.1	STRDD04_RS09090	30S ribosomal protein S8
+GI-19	Predicted by at least one method	WP_001085697.1	STRDD04_RS10735	type Z 30S ribosomal protein S14
+GI-19	Predicted by at least one method	WP_037617766.1	STRDD04_RS09095	50S ribosomal protein L5
+GI-19	Predicted by at least one method	WP_015604250.1	STRDD04_RS09100	50S ribosomal protein L24
+GI-19	Predicted by at least one method	WP_002894494.1	STRDD04_RS09105	50S ribosomal protein L14
+GI-19	Predicted by at least one method	WP_002885836.1	STRDD04_RS09110	30S ribosomal protein S17
+GI-19	Predicted by at least one method	WP_005591297.1	STRDD04_RS09115	50S ribosomal protein L29
+GI-19	Predicted by at least one method	WP_015604249.1	STRDD04_RS09120	50S ribosomal protein L16
+GI-19	Predicted by at least one method	WP_021002172.1	STRDD04_RS09125	30S ribosomal protein S3
+GI-19	Predicted by at least one method	WP_009443859.1	STRDD04_RS09130	50S ribosomal protein L22
+GI-19	Predicted by at least one method	WP_000533766.1	STRDD04_RS09135	30S ribosomal protein S19
+GI-19	Predicted by at least one method	WP_037617775.1	STRDD04_RS09140	50S ribosomal protein L2
+GI-19	Predicted by at least one method	WP_005591301.1	STRDD04_RS09145	50S ribosomal protein L23
+GI-19	Predicted by at least one method	WP_062201685.1	STRDD04_RS09150	50S ribosomal protein L4
+GI-19	Predicted by at least one method	WP_062201687.1	STRDD04_RS09155	50S ribosomal protein L3
+GI-19	Predicted by at least one method	WP_005591304.1	STRDD04_RS09160	30S ribosomal protein S10
+GI-19	Predicted by at least one method	WP_062201689.1	STRDD04_RS09165	acyltransferase family protein
+GI-19	Predicted by at least one method	WP_062201691.1	STRDD04_RS09170	phosphoribulokinase
+GI-20	Predicted by at least one method	WP_062201963.1	STRDD04_RS10040	hypothetical protein
+GI-20	Predicted by at least one method	WP_062201965.1	STRDD04_RS10045	endonuclease/exonuclease/phosphatase family protein
+GI-20	Predicted by at least one method	WP_062201978.1	STRDD04_RS10050	FtsK/SpoIIIE domain-containing protein
+GI-20	Predicted by at least one method	WP_062201967.1	STRDD04_RS10055	hypothetical protein
+GI-20	Predicted by at least one method	WP_062201969.1	STRDD04_RS10060	metallophosphoesterase
+GI-20	Predicted by at least one method	WP_062201971.1	STRDD04_RS10065	hypothetical protein
+GI-20	Predicted by at least one method	WP_062201974.1	STRDD04_RS10070	DUF3173 domain-containing protein
+GI-20	Predicted by at least one method	WP_062201976.1	STRDD04_RS10075	site-specific integrase
+GI-21-1	Predicted by at least one method	WP_062201780.1	STRDD04_RS09430	5-(carboxyamino)imidazole ribonucleotide synthase
+GI-21-1	Predicted by at least one method	WP_062201782.1	STRDD04_RS09435	5-(carboxyamino)imidazole ribonucleotide mutase
+GI-21-1	Predicted by at least one method	WP_079114924.1	STRDD04_RS11550	phosphoribosylaminoimidazole carboxylase
+GI-21-1	Predicted by at least one method	WP_062201784.1	STRDD04_RS09440	phosphoribosylamine--glycine ligase
+GI-21-1	Predicted by at least one method	WP_062201785.1	STRDD04_RS09445	GBS Bsp-like repeat-containing protein
+GI-21-1	Predicted by at least one method	WP_156469086.1	STRDD04_RS10755	IS3 family transposase
+GI-21-1	Predicted by at least one method	WP_062201787.1	STRDD04_RS09450	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+GI-21-1	Predicted by at least one method		STRDD04_RS09455	phosphoribosylglycinamide formyltransferase
+GI-21-1	Predicted by at least one method	WP_062201788.1	STRDD04_RS09460	phosphoribosylformylglycinamidine cyclo-ligase
+GI-21-1	Predicted by at least one method	WP_062201790.1	STRDD04_RS09465	amidophosphoribosyltransferase
+GI-21-2	Inferred	WP_062201776.1	STRDD04_RS09420	P-loop NTPase fold protein
+GI-21-2	Inferred	WP_062201778.1	STRDD04_RS09425	hypothetical protein
+GI-22	Inferred	WP_062199797.1	STRDD04_RS04740	ISLre2 family transposase
+GI-22	Inferred	WP_062199798.1	STRDD04_RS04745	hypothetical protein
+GI-22	Inferred	WP_017650616.1	STRDD04_RS04750	replication initiator protein A
+GI-22	Inferred	WP_017646921.1	STRDD04_RS04755	hypothetical protein
+GI-22	Inferred	WP_062199801.1	STRDD04_RS04760	AAA family ATPase
+GI-22	Inferred	WP_062199803.1	STRDD04_RS04765	hypothetical protein
+GI-22	Inferred	WP_062199805.1	STRDD04_RS04770	CHAP domain-containing protein
+GI-22	Inferred	WP_017646918.1	STRDD04_RS04775	hypothetical protein
+GI-22	Inferred	WP_062199807.1	STRDD04_RS04780	virulence factor
+GI-22	Inferred	WP_000985696.1	STRDD04_RS04785	hypothetical protein
+GI-22	Inferred	WP_000343796.1	STRDD04_RS04790	DUF5592 family protein
+GI-22	Inferred	WP_062199809.1	STRDD04_RS04795	BRCT domain-containing protein
+GI-22	Inferred	WP_062199810.1	STRDD04_RS04800	hypothetical protein
+GI-22	Inferred	WP_062199813.1	STRDD04_RS04805	hypothetical protein
+GI-22	Inferred	WP_062199814.1	STRDD04_RS04810	type IV secretory system conjugative DNA transfer family protein
+GI-22	Inferred		STRDD04_RS04815	uncharacterized gene
+GI-22	Inferred	WP_025195446.1	STRDD04_RS04820	hypothetical protein
+GI-22	Inferred	WP_017646913.1	STRDD04_RS04825	single-stranded DNA-binding protein
+GI-22	Inferred	WP_156469051.1	STRDD04_RS04830	LPXTG cell wall anchor domain-containing protein
+GI-22	Inferred	WP_062199818.1	STRDD04_RS04835	LPXTG cell wall anchor domain-containing protein
+GI-22	Inferred	WP_017646910.1	STRDD04_RS04840	hypothetical protein
+GI-22	Inferred	WP_017646909.1	STRDD04_RS04845	TrbC/VirB2 family protein
+GI-22	Inferred	WP_062199820.1	STRDD04_RS04850	ATP-dependent Clp protease ATP-binding subunit
+GI-22	Inferred	WP_062199822.1	STRDD04_RS04855	DNA topoisomerase
+GI-22	Predicted by at least one method	WP_231853883.1	STRDD04_RS04860	PBECR4 domain-containing protein
+GI-22	Predicted by at least one method	WP_156469052.1	STRDD04_RS11435	ImmA/IrrE family metallo-endopeptidase
+GI-22	Inferred	WP_231853884.1	STRDD04_RS11440	toprim domain-containing protein
+GI-22	Inferred	WP_062199823.1	STRDD04_RS04870	hypothetical protein
+GI-22	Inferred	WP_062199825.1	STRDD04_RS04875	relaxase MobL
+GI-22	Inferred	WP_062199827.1	STRDD04_RS04880	hypothetical protein
+GI-22	Inferred	WP_017646902.1	STRDD04_RS04885	hypothetical protein
+GI-22	Inferred	WP_062199829.1	STRDD04_RS04890	DNA/RNA non-specific endonuclease
+GI-22	Inferred	WP_062199831.1	STRDD04_RS04895	hypothetical protein
+GI-22	Inferred	WP_062199834.1	STRDD04_RS04900	hypothetical protein
+GI-22	Inferred	WP_001074439.1	STRDD04_RS04905	hypothetical protein
+GI-22	Inferred	WP_062199836.1	STRDD04_RS04910	hypothetical protein
+GI-22	Inferred	WP_017650554.1	STRDD04_RS04915	hypothetical protein
+GI-22	Inferred	WP_062199839.1	STRDD04_RS04920	hypothetical protein
+GI-22	Inferred	WP_017650557.1	STRDD04_RS04930	hypothetical protein
+GI-22	Inferred	WP_062199841.1	STRDD04_RS04935	hypothetical protein
+GI-22	Inferred	WP_017650559.1	STRDD04_RS04940	hypothetical protein
+GI-22	Inferred	WP_017650560.1	STRDD04_RS04945	hypothetical protein
+GI-22	Inferred	WP_171842251.1	STRDD04_RS11150	hypothetical protein
+GI-22	Inferred	WP_062199843.1	STRDD04_RS04950	primase C-terminal domain-containing protein
+GI-22	Inferred	WP_062199844.1	STRDD04_RS04955	DUF2786 domain-containing protein
+GI-22	Inferred	WP_000191216.1	STRDD04_RS04960	hypothetical protein
+GI-22	Inferred	WP_000620668.1	STRDD04_RS04965	hypothetical protein
+GI-22	Inferred	WP_017646885.1	STRDD04_RS04970	hypothetical protein
+GI-23	Inferred	WP_062199729.1	STRDD04_RS04545	restriction endonuclease subunit S
+GI-23	Inferred	WP_062199731.1	STRDD04_RS04550	restriction endonuclease subunit S
+GI-23	Inferred	WP_231853881.1	STRDD04_RS11425	hypothetical protein
+GI-23	Inferred	WP_231853882.1	STRDD04_RS04555	N-6 DNA methylase
+GI-24	Inferred	WP_062199416.1	STRDD04_RS03610	AAA family ATPase
+GI-24	Inferred	WP_062199418.1	STRDD04_RS03615	hypothetical protein
+GI-25	Inferred	WP_062199372.1	STRDD04_RS03460	MBL fold metallo-hydrolase
+GI-26	Inferred	WP_062199384.1	STRDD04_RS03495	HAD family phosphatase
+GI-26	Inferred		STRDD04_RS03500	uncharacterized gene
+GI-27	Inferred	WP_062198411.1	STRDD04_RS00450	hypothetical protein
+GI-27	Inferred		STRDD04_RS10800	uncharacterized gene
+GI-28	Inferred	WP_231853854.1	STRDD04_RS00635	DUF4962 domain-containing protein
+GI-28	Inferred	WP_156469017.1	STRDD04_RS10805	hypothetical protein
+GI-28	Inferred	WP_062198462.1	STRDD04_RS00640	Fic family protein
+GI-28	Inferred	WP_062198464.1	STRDD04_RS10810	hypothetical protein
+GI-28	Inferred	WP_062198466.1	STRDD04_RS10815	hypothetical protein
+GI-28	Inferred	WP_062198468.1	STRDD04_RS00655	DUF6261 family protein
+GI-28	Inferred	WP_062198471.1	STRDD04_RS00660	hypothetical protein
+GI-29	Inferred	WP_231853858.1	STRDD04_RS01295	DUF2971 domain-containing protein
+GI-30	Inferred	WP_062198734.1	STRDD04_RS01530	hypothetical protein
+GI-30	Inferred	WP_231853864.1	STRDD04_RS01535	hypothetical protein
+GI-30	Inferred	WP_156469022.1	STRDD04_RS01540	hypothetical protein
+GI-30	Inferred	WP_062198738.1	STRDD04_RS01545	DUF1310 family protein
+GI-30	Inferred	WP_062198741.1	STRDD04_RS01550	DUF1310 family protein
+GI-30	Inferred	WP_062198743.1	STRDD04_RS01560	DUF1310 family protein
+GI-31	Inferred	WP_062198767.1	STRDD04_RS01625	DUF1648 domain-containing protein
+GI-31	Inferred	WP_002896078.1	STRDD04_RS01630	autorepressor SdpR family transcription factor
+GI-32	Inferred		STRDD04_RS02125	uncharacterized gene
+GI-32	Inferred	WP_062198942.1	STRDD04_RS02130	hypothetical protein
+GI-33	Inferred	WP_062199220.1	STRDD04_RS02925	CPBP family intramembrane metalloprotease
+GI-33	Inferred		STRDD04_RS10865	uncharacterized gene
+GI-33	Inferred	WP_062199222.1	STRDD04_RS02930	tyrosine recombinase XerS
+GI-33	Inferred	WP_197460069.1	STRDD04_RS10515	transposase
+GI-35	Inferred	WP_062199266.1	STRDD04_RS03095	response regulator
+GI-35	Inferred	WP_062199268.1	STRDD04_RS03100	peptide-methionine (R)-S-oxide reductase MsrB
+GI-35	Inferred	WP_062199270.1	STRDD04_RS03105	redoxin domain-containing protein
+GI-35	Inferred	WP_062199272.1	STRDD04_RS03110	hypothetical protein
+GI-35	Inferred	WP_062199274.1	STRDD04_RS03115	thiol-disulfide oxidoreductase-associated membrane protein CcdA2
+GI-35	Inferred		STRDD04_RS03120	uncharacterized gene
+GI-36	Inferred	WP_062198886.1	STRDD04_RS01955	type II toxin-antitoxin system VapC family toxin
+GI-36	Inferred	WP_062198888.1	STRDD04_RS01960	STAS-like domain-containing protein
+GI-36	Inferred	WP_062198890.1	STRDD04_RS01965	hypothetical protein
+GI-36	Inferred		STRDD04_RS01970	
+GI-36	Inferred	WP_062198892.1	STRDD04_RS01975	helix-turn-helix transcriptional regulator
+GI-36	Inferred	WP_062198894.1	STRDD04_RS01980	helix-turn-helix transcriptional regulator
+GI-36	Inferred	WP_062198896.1	STRDD04_RS01985	hypothetical protein
+GI-36	Inferred	WP_062198898.1	STRDD04_RS01990	Rha family transcriptional regulator
+GI-36	Inferred	WP_062198900.1	STRDD04_RS01995	hypothetical protein
+GI-36	Inferred	WP_062198903.1	STRDD04_RS02005	hypothetical protein
+GI-36	Inferred	WP_062198905.1	STRDD04_RS02010	hypothetical protein
+GI-36	Inferred	WP_062198907.1	STRDD04_RS02015	primase alpha helix C-terminal domain-containing protein
+GI-36	Inferred	WP_062198910.1	STRDD04_RS02020	DNA primase family protein
+GI-36	Inferred	WP_197460063.1	STRDD04_RS11110	hypothetical protein
+GI-36	Inferred	WP_062198912.1	STRDD04_RS02025	hypothetical protein
+GI-36	Inferred	WP_062199193.1	STRDD04_RS11115	hypothetical protein
+GI-36	Inferred	WP_062198914.1	STRDD04_RS02035	type II toxin-antitoxin system PemK/MazF family toxin
+GI-36	Inferred	WP_045498766.1	STRDD04_RS02040	AbrB family transcriptional regulator
+GI-36	Inferred	WP_062198916.1	STRDD04_RS02045	DUF1492 domain-containing protein
+GI-36	Inferred	WP_024402467.1	STRDD04_RS02050	type II toxin-antitoxin system HicA family toxin
+GI-36	Inferred	WP_062198918.1	STRDD04_RS02055	type II toxin-antitoxin system HicB family antitoxin
+GI-37	Inferred	WP_062199651.1	STRDD04_RS04335	glycosyltransferase
+GI-37	Inferred	WP_062199653.1	STRDD04_RS04340	glycosyltransferase family 2 protein
+GI-37	Inferred	WP_082757343.1	STRDD04_RS04345	lipopolysaccharide biosynthesis protein
+GI-38	Inferred	WP_062199993.1	STRDD04_RS05355	NUDIX hydrolase
+GI-38	Inferred	WP_062199994.1	STRDD04_RS05360	hypothetical protein
+GI-39	Inferred	WP_231853893.1	STRDD04_RS11445	hypothetical protein
+GI-39	Inferred	WP_269450150.1	STRDD04_RS05650	AAA family ATPase
+GI-40	Inferred		STRDD04_RS06010	uncharacterized gene
+GI-40	Inferred		STRDD04_RS06015	uncharacterized gene
+GI-40	Inferred	WP_062200241.1	STRDD04_RS06020	hypothetical protein
+GI-40	Inferred	WP_082757351.1	STRDD04_RS06025	DUF4238 domain-containing protein
+GI-41	Inferred	WP_062200265.1	STRDD04_RS06080	hypothetical protein
+GI-41	Inferred	WP_062200269.1	STRDD04_RS06085	hypothetical protein
+GI-41	Inferred	WP_062200272.1	STRDD04_RS06090	hypothetical protein
+GI-41	Inferred	WP_062200273.1	STRDD04_RS06095	hypothetical protein
+GI-41	Inferred	WP_231853898.1	STRDD04_RS06100	hypothetical protein
+GI-41	Inferred	WP_062200278.1	STRDD04_RS06105	transposase
+GI-42	Inferred	WP_231853903.1	STRDD04_RS06540	exopolysaccharide Pel transporter PelG
+GI-42	Inferred	WP_062200469.1	STRDD04_RS06545	CotH kinase family protein
+GI-42	Inferred	WP_062200472.1	STRDD04_RS06550	polyphosphate polymerase domain-containing protein
+GI-42	Inferred	WP_062200476.1	STRDD04_RS06555	DUF4956 domain-containing protein
+GI-43	Inferred	WP_062200656.1	STRDD04_RS07110	PTS cellobiose transporter subunit IIC
+GI-43	Inferred	WP_062200657.1	STRDD04_RS07115	hypothetical protein
+GI-43	Inferred	WP_021001470.1	STRDD04_RS07120	PTS cellobiose transporter subunit IIA
+GI-43	Inferred		STRDD04_RS07125	
+GI-43	Inferred	WP_003073302.1	STRDD04_RS07130	PTS cellobiose transporter subunit IIB
+GI-43	Inferred	WP_062200659.1	STRDD04_RS07135	SemiSWEET transporter
+GI-43	Inferred	WP_062200660.1	STRDD04_RS07140	hypothetical protein
+GI-44	Inferred	WP_062201160.1	STRDD04_RS11175	hypothetical protein
+GI-45	Inferred	WP_062201419.1	STRDD04_RS08205	heavy metal translocating P-type ATPase
+GI-45	Inferred	WP_000910909.1	STRDD04_RS08210	DUF6110 family protein
+GI-46	Inferred	WP_062199707.1	STRDD04_RS04485	SAM-dependent methyltransferase TehB
+GI-46	Inferred		STRDD04_RS10920	
+GI-46	Inferred	WP_062199709.1	STRDD04_RS04490	hypothetical protein
+GI-47	Inferred	WP_062199993.1	STRDD04_RS05355	NUDIX hydrolase
+GI-47	Inferred	WP_062199994.1	STRDD04_RS05360	hypothetical protein
+GI-48	Inferred	WP_062200040.1	STRDD04_RS05485	LPXTG cell wall anchor domain-containing protein
+GI-49	Inferred	WP_262366320.1	STRDD04_RS11590	DUF4947 domain-containing protein
+GI-49	Inferred	WP_269450153.1	STRDD04_RS11595	hypothetical protein
+GI-50	Inferred	WP_062201449.1	STRDD04_RS08305	GNAT family N-acetyltransferase
+GI-50	Inferred	WP_062201451.1	STRDD04_RS08310	GNAT family N-acetyltransferase
+GI-50	Inferred	WP_005592063.1	STRDD04_RS11035	hypothetical protein
+GI-7	Inferred	WP_002899327.1	STRDD04_RS08585	metal-sulfur cluster assembly factor
+GI-8	Inferred	WP_231853931.1	STRDD04_RS09930	acetyl-CoA carboxylase biotin carboxyl carrier protein
+GI-8	Inferred		STRDD04_RS11575	Uncharacterized gene
+GI-51	Inferred	WP_231853891.1	STRDD04_RS05380	hypothetical protein
+GI-51	Inferred	WP_156469055.1	STRDD04_RS10950	hypothetical protein
+GI-51	Inferred	WP_062200005.1	STRDD04_RS05385	hypothetical protein
+GI-51	Inferred	WP_231853892.1	STRDD04_RS05390	DUF2974 domain-containing protein
+GI-51	Inferred	WP_062200009.1	STRDD04_RS05395	hypothetical protein
+GI-52	Inferred	WP_062200222.1	STRDD04_RS05960	group II intron reverse transcriptase/maturase
+GI-53	Inferred	WP_062200247.1	STRDD04_RS06040	AraC family transcriptional regulator
+GI-53	Inferred	WP_062200250.1	STRDD04_RS06045	alpha-galactosidase
+GI-54	Inferred	WP_062200451.1	STRDD04_RS06510	ABC transporter ATP-binding protein
+GI-54	Inferred	WP_062200454.1	STRDD04_RS06515	DUF4832 domain-containing protein
+GI-54	Inferred	WP_062200457.1	STRDD04_RS06520	hypothetical protein
+GI-54	Inferred	WP_062200460.1	STRDD04_RS06525	hypothetical protein
+GI-54	Inferred	WP_062200463.1	STRDD04_RS06530	DUF2194 domain-containing protein
+GI-54	Inferred	WP_062200466.1	STRDD04_RS06535	GT4 family glycosyltransferase PelF
+GI-55	Inferred	WP_062201116.1	STRDD04_RS07500	TetR/AcrR family transcriptional regulator
+GI-55	Inferred	WP_062201119.1	STRDD04_RS07505	VOC family protein
+GI-56	Inferred	WP_062201526.1	STRDD04_RS08550	type VII secretion protein EssC
+GI-56	Inferred	WP_062201528.1	STRDD04_RS08555	type VII secretion protein EssB
+GI-56	Inferred	WP_037618144.1	STRDD04_RS08560	EsaB/YukD family protein
+GI-56	Inferred	WP_062201530.1	STRDD04_RS08565	type VII secretion protein EssA
+GI-56	Inferred	WP_062201531.1	STRDD04_RS08570	type VII secretion protein EsaA
+GI-56	Inferred	WP_037618154.1	STRDD04_RS08575	WXG100 family type VII secretion target

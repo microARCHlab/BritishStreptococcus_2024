@@ -1,0 +1,117 @@
+# circos.config
+# Call: bin/circos -config config/DD04CircosConfig-03182024.txt
+
+karyotype = data/DD04-03062024/karyotype.DD04.txt
+
+##################
+<ideogram>
+
+<spacing>
+default = 0.000r
+</spacing>
+
+radius = 0.98r
+thickness = 50p
+fill = yes
+stroke_color = grey
+stroke_thickness = 2
+
+</ideogram>
+
+##################
+
+<plots>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/DD04AncientIndividualMapping-03062024_islandcircoscoordinates.txt
+r0 = 0.98r
+r1 = 0.95r
+fill_color = black
+stroke_color = grey
+stroke_thickness = 2
+</plot>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/CompressedHighlights/16906_PostMedieval_StBenetSherehog_ONE94.txt
+r0 = 0.88r
+r1 = 0.93r
+fill_color = dpurple
+stroke_thickness = 0
+</plot>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/CompressedHighlights/StHelensOnWalls8875.txt
+r0 = 0.83r
+r1 = 0.88r
+fill_color = vvdred
+stroke_thickness = 0
+</plot>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/CompressedHighlights/Hinxton16489.txt
+r0 = 0.78r
+r1 = 0.83r
+fill_color = vvdyellow
+stroke_thickness = 0
+</plot>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/CompressedHighlights/Yorkshire8895.txt
+r0 = 0.73r
+r1 = 0.78r
+fill_color = grey
+stroke_thickness = 0
+</plot>
+
+<plot>
+type = histogram
+file = data/DD04-03062024/histogram.GC.Streptococcus_sp._DD04.txt
+r1 = 0.70r
+r0 = 0.65r
+fill_color = green
+extend_bin = no
+orientation = out
+thickness = 5
+color = green
+</plot>
+
+<plot>
+type = highlight
+file = data/DD04-03062024/Streptococcus_spDD04_CDS.txt
+r0 = 0.63r
+r1 = 0.65r
+fill_color = vdblue
+stroke_color = vdblue
+stroke_thickness = 0
+</plot>
+
+</plots>
+
+## Set axis ##
+
+
+################################################################
+# The remaining content is standard and required. It is imported 
+# from default files in the Circos distribution.
+#
+# These should be present in every Circos configuration file and
+# overridden as required. To see the content of these files, 
+# look in etc/ in the Circos distribution.
+
+<image>
+# Included from Circos distribution.
+<<include etc/image.conf>>
+</image>
+
+# RGB/HSV color definitions, color lists, location of fonts, fill patterns.
+# Included from Circos distribution.
+<<include etc/colors_fonts_patterns.conf>>
+
+# Debugging, I/O an dother system parameters
+# Included from Circos distribution.
+<<include etc/housekeeping.conf>>
