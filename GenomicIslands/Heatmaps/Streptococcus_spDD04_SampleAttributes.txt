@@ -1,0 +1,52 @@
+Sample 	 Whole Genome Coverage 	 Relative Abundance 	 Date Range 	 Early Date 	 Late Date 	 Date
+16811_Medieval_SpitalSquare_NRF88 	0.643819039	0.826	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16813_Medieval_SpitalSquare_NRF88 	0.778657273	0.402	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16814_Medieval_SpitalSquare_NRF88 	0.655681312	0.543	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16818_Medieval_SpitalSquare_NRF88 	0.750060348	0.88	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16821_Medieval_SpitalSquare_NRF88 	0.565946447	0.246	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16825_Medieval_SpitalSquare_NRF88 	0.609774215	0.81	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16828_Medieval_SpitalSquare_SSQ88 	0.674905796	0.87	 1280-1320 	1280	1320	 Norman Britain and the Middle Ages
+16829_Medieval_SpitalSquare.SSQ88 	0.732798817	0.778	 1280-1320 	1280	1320	 Norman Britain and the Middle Ages
+16830_Medieval_SpitalSquare.SSQ88 	0.741858496	0.404	 1280-1320 	1280	1320	 Norman Britain and the Middle Ages
+16839_Medieval_MertonPriory_MPY86 	0.761992175	0.865	 1117-1222 	1117	1222	 Norman Britain and the Middle Ages
+16847_Medieval_MertonPriory_MPY86 	0.589694633	0.117	 1300-1390 	1300	1390	 Norman Britain and the Middle Ages
+16850_Medieval_MertonPriory_MPY86 	0.639482631	0.813	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16853_Medieval_MertonPriory_MPY86 	0.539525682	0.823	 1117-1222 	1117	1222	 Norman Britain and the Middle Ages
+16860_Medieval_MertonPriory_MPY86 	0.524487134	0.423	 1117-1222 	1117	1222	 Norman Britain and the Middle Ages
+16862_Medieval_MertonPriory_MPY86 	0.631758561	0.74	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16873_Medieval_MertonPriory_MPY86 	0.714255776	0.679	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16881_Medieval_MertonPriory_MPY86 	0.56304475	0.827	 1117-1538 	1117	1538	 Norman Britain and the Middle Ages
+16886_Medieval_MertonPriory_MPY86 	0.649645618	0.411	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16887_Medieval_MertonPriory_MPY86 	0.743684615	0.624	 1117-1538 	1117	1538	 Norman Britain and the Middle Ages
+16897_PostMedieval_CrossBones_REW92 	0.644964625	0.428	 1598-1853 	1598	1853	 Reformation
+16901_PostMedieval_CrossBones_REW92 	0.61807426	0.506	 1598-1853 	1598	1853	 Reformation
+16906_PostMedieval_StBenetSherehog_ONE94 	0.738058513	0.618	 1670-1853 	1670	1853	 Reformation
+16913_Medieval_StBenetSherehog_ONE94 	0.550329652	0.702	 1280-1666 	1280	1666	 Norman Britain and the Middle Ages
+16914_Medieval_StBenetSherehog_ONE94 	0.699349516	0.76	 1250-1500 	1250	1500	 Norman Britain and the Middle Ages
+16916_Medieval_StBenetSherehog_ONE94 	0.516363473	0.785	 1280-1666 	1280	1666	 Norman Britain and the Middle Ages
+16918_Medieval_StBenetSherehog_ONE94 	0.55713498	0.076	 1280-1666 	1280	1666	 Norman Britain and the Middle Ages
+16936_Medieval_MertonPriory_MPY86 	0.722663561	0.805	 1300-1390 	1300	1390	 Norman Britain and the Middle Ages
+16937_Medieval_StMaryGraces_MIN86 	0.605407349	0.836	 1400-1538 	1400	1538	 Norman Britain and the Middle Ages
+16942_Medieval_StMaryGraces_MIN86 	0.691126752	0.639	 1400-1538 	1400	1538	 Norman Britain and the Middle Ages
+16955_Medieval_GuildhallYard_GYE92 	0.767416889	0.791	 1140-1230 	1140	1230	 Norman Britain and the Middle Ages
+18502_Pictish3 	0.627498526	0.809	 402-535 	402	535	 Roman Britain
+BreedonOnTheHill12857 	0.813540375	0.881	-676	-676	-676	 Pre-Roman Britian
+BreedonOnTheHill12861 	0.659244449	0.542	-676	-676	-676	 Pre-Roman Britian
+Hinxton16489 	0.828922144	0.789	 200BCE-0 	-170	-80	 Pre-Roman Britian
+IsleOfPamona15920 	0.643418539	0.611	 U 	-43	 U 	 Pre-Roman Britian
+Linton16499 	0.53566251	0.869	 690-900 	690	900	 Anglo-Saxon or Early Medieval Britain
+Oakington15810 	0.771840125	0.807	 450-600 	450	600	 Anglo-Saxon or Early Medieval Britain
+Oakington16500 	0.767261871	0.808	 450-600 	450	600	 Anglo-Saxon or Early Medieval Britain
+Raunds8338 	0.655151706	0.577	 950-1150 	950	1150	 Anglo-Saxon or Early Medieval Britain
+Raunds8346 	0.74010193	0.516	 950-1150 	950	1150	 Anglo-Saxon or Early Medieval Britain
+Raunds8347 	0.634440233	0.833	 950-1150 	950	1150	 Anglo-Saxon or Early Medieval Britain
+StBrides12850 	0.638746638	0.75	 1600-1700 	1600	1700	 Reformation
+StBrides12866 	0.557092247	0.71	 1600-1700 	1600	1700	 Reformation
+StBrides12867 	0.741357983	0.535	 1600-1700 	1600	1700	 Reformation
+StHelensOnWalls8873 	0.664189109	0.329	 1100-1550 	1100	1550	 Norman Britain and the Middle Ages
+StHelensOnWalls8875 	0.781702623	0.417	 1100-1550 	1100	1550	 Norman Britain and the Middle Ages
+StNiniansIsle15928 	0.643336256	0.657	 U 	1180	11800	 Norman Britain and the Middle Ages
+StNiniansIsle15929 	0.552799026	0.719	 U 	 U 	 U 	 U
+Yorkshire8892 	0.759937847	0.782	 2100-800 	-2100	-800	 Pre-Roman Britian
+Yorkshire8893 	0.728051453	0.299	 2100-800 	-2100	-800	 Pre-Roman Britian
+Yorkshire8895 	0.805014395	0.541	 2100-800 	-2100	-800	 Pre-Roman Britian

@@ -1,0 +1,51 @@
+Sample 	 Whole Genome Coverage 	 Relative Abundance 	 Date Range 	 Early Date 	 Late Date 	 Date
+16812_Medieval_SpitalSquare_NRF88 	0.603855738	0.648	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16813_Medieval_SpitalSquare_NRF88 	0.73225952	0.397	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16821_Medieval_SpitalSquare_NRF88 	0.532178068	0.269	 1235-1280 	1235	1280	 Norman Britain and the Middle Ages
+16830_Medieval_SpitalSquare.SSQ88 	0.694257772	0.374	 1280-1320 	1280	1320	 Norman Britain and the Middle Ages
+16832_Medieval_SpitalSquare_SSQ88 	0.543993815	0.552	 1280-1320 	1280	1320	 Norman Britain and the Middle Ages
+16834_Medieval_MertonPriory_MPY86 	0.631710807	0.843	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16835_Medieval_MertonPriory_MPY86 	0.667550077	0.706	 1300-1390 	1300	1390	 Norman Britain and the Middle Ages
+16838_Medieval_MertonPriory_MPY86 	0.625107634	0.582	 1222-1300 	1222	1300	 Norman Britain and the Middle Ages
+16842_Medieval_MertonPriory_MPY86 	0.692725763	0.701	 1117-1222 	1117	1222	 Norman Britain and the Middle Ages
+16847_Medieval_MertonPriory_MPY86 	0.847030552	0.744	 1300-1390 	1300	1390	 Norman Britain and the Middle Ages
+16857_Medieval_MertonPriory_MPY86 	0.861456501	0.81	 1300-1390 	1300	1390	 Norman Britain and the Middle Ages
+16918_Medieval_StBenetSherehog_ONE94 	0.840111492	0.583	 1280-1666 	1280	1666	 Norman Britain and the Middle Ages
+16961_PostMedieval_StBrides_SB79 	0.561482912	0.725	 U 	 U 	 U 	 U
+16966_Medieval_BermondseyAbbey_BA84 	0.56266205	0.501	 1066-1540 	1066	1540	 Norman Britain and the Middle Ages
+Hinxton16491 	0.747660542	0.594	 U 	1263	1313	 Norman Britain and the Middle Ages
+Jewbury8815 	0.583992266	0.402	 1170-1290 	1170	1290	 Norman Britain and the Middle Ages
+Jewbury8822 	0.71068608	0.758	 1170-1290 	1170	1290	 Norman Britain and the Middle Ages
+Jewbury8839 	0.556149379	0.808	 1170-1290 	1170	1290	 Norman Britain and the Middle Ages
+NewarkBay8887 	0.740274613	0.629	 U 	1180	1180	 Norman Britain and the Middle Ages
+Oakington16540 	0.518976943	0.379	 450-600 	450	600	 Anglo-Saxon or Early Medieval Britain
+Raunds8346 	0.547646097	0.228	 950-1150 	950	1150	 Anglo-Saxon or Early Medieval Britain
+StHelensOnWalls8873 	0.584916431	0.265	 1100-1550 	1100	1550	 Norman Britain and the Middle Ages
+StHelensOnWalls8875 	0.658456356	0.293	 1100-1550 	1100	1550	 Norman Britain and the Middle Ages
+Yorkshire8893 	0.830997755	0.565	 2100-800 	-2100	-800	 Pre-Roman Britian
+Yorkshire8895 	0.820624386	0.345	 2100-800 	-2100	-800	 Pre-Roman Britian
+18754_HealthyModern_2_Calculus_kneaddata 	0.892778062	0.378	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18758_HealthyModern_4_Calculus_kneaddata 	0.575651278	0.752	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18760_HealthyModern_5_Calculus_kneaddata 	0.929847813	0.727	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18766_HealthyModern_8a_Calculus_2ndElute_kneaddata 	0.707761731	0.774	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18769_HealthyModern_9_Calculus_kneaddata 	0.837520869	0.824	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18771_HealthyModern_10_Calculus_2ndElute_kneaddata 	0.843670661	0.795	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18773_HealthyModern_11_Calculus_kneaddata 	0.753348252	0.523	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18775_HealthyModern_12_Calculus_2ndElute_kneaddata 	0.741866232	0.746	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18777_HealthyModern_13_Calculus_kneaddata 	0.88738492	0.756	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18784_HealthyModern_16_Calculus_kneaddata 	0.899017922	0.751	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18786_HealthyModern_17_Calculus_kneaddata 	0.912123323	0.611	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+18791_HealthyModern_20_Calculus_kneaddata 	0.634302301	0.205	 Healthy Modern 	2016	 Healthy Modern 	 Healthy Modern
+19771_ModernCalculus_PerioDisease_5_kneaddata 	0.585884978	0.536	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19772_ModernCalculus_PerioDisease_6_kneaddata 	0.670495312	0.87	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19774_ModernCalculus_PerioDisease_8_kneaddata 	0.669976665	0.807	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19775_ModernCalculus_PerioDisease_9_kneaddata 	0.549762454	0.619	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19778_ModernCalculus_PerioDisease_12_kneaddata 	0.733748889	0.877	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19780_ModernCalculus_PerioDisease_14_kneaddata 	0.698187652	0.705	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19782_ModernCalculus_PerioDisease_16_kneaddata 	0.57772717	0.824	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19783_ModernCalculus_PerioDisease_17_kneaddata 	0.657308981	0.887	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19785_ModernCalculus_PerioDisease_19_kneaddata 	0.684905162	0.794	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19786_ModernCalculus_PerioDisease_20_kneaddata 	0.559426164	0.816	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19792_ModernCalculus_PerioDisease_26_kneaddata 	0.613008199	0.835	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19795_ModernCalculus_PerioDisease_29_kneaddata 	0.599091324	0.723	 Perio Modern 	2017	 Perio Modern 	 Perio Modern
+19796_ModernCalculus_PerioDisease_30_kneaddata 	0.587845132	0.727	 Perio Modern 	2017	 Perio Modern 	 Perio Modern

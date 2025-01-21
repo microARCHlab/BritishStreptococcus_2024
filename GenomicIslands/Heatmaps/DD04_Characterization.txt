@@ -1,0 +1,38 @@
+Genomic Island 	 Fraction of CDS Genes with GO Terms 	Summarized for Chart
+GI-1- 	 1/6 	Lipoproteins; LXG domain-containing proteins
+GI-10 	 6/8 	Histidine catabolism; amino acid transport
+GI-11 	 10/15 	Signal transduction; pentose phosphate shunt; PTS
+GI-12 	 0/3 	Metalloprotease activity; TI restriction modification system
+GI-14 	 0/9 	LPXTG & G5 domains; beta galactose & aminidase activity
+GI-16-1 	 0/5 	Silent information regulator (SIR2); uncharacterized (3)
+GI-17 	 3/9 	Defense response to virus; GGDEF and FRG domains
+GI-18 	 2/14 	Type IV secretion system; recombination; uncharacterized (9)
+GI-19 	 31/33 	Ribosome protein; Sec transport; glutathione synthesis
+GI-2- 	 7/10 	Isoprenoid synthesis; glycoprotein metabolics; transferases
+GI-20 	 2/8 	DNA recombination and integration; uncharacterized (4)
+GI-21-1 	 7/9 	Purine biosyntehsis; glutamine metabolic process
+GI-21-2 	 0/2 	KAP NTPase domain; purine biosynthesis
+GI-22 	 10/47 	Proteolysis; LPXTG; DNA topological change; uncharacterized 20)
+GI-23 	 1/4 	TI DNA restriction-modification system; methylation
+GI-24 	 1/2 	AAA family ATPase; HNH domain-containing protein
+GI-28 	 1/7 	Fic family protein; phage protein; uncharacterized (5)
+GI-30 	 0/6 	Secreted protein; uncharacterized (4)
+GI-32 	 0/1 	Uncharacterized (1)
+GI-33 	 1/3 	Chromosome segregation; intramembrane metalloprotease
+GI-35 	 3/5 	Signal transduction; oxidative stress response
+GI-36 	 5/20 	TII toxin-antitoxin system; phage protein; transcriptional reg.
+GI-37 	 2/3 	Glycosyltransferase activity; lipopolysaccharide biosynthesis
+GI-4- 	 8/13 	Surface protein; mucin-binding domain; ribosome; put. adhesion
+GI-40 	 0/2 	Uncharacterized (2)
+GI-41 	 4/6 	Membrane protein; lipoprotein
+GI-42 	 3/4 	Fibronectin; exopolysaccharide Pel transporter; CotH kinase
+GI-43 	 5/6 	Sugar transport (including PTS and SemiSWEET)
+GI-45 	 2/2 	Heavy metal transmembrane transport; membrane protein
+GI-48 	 1/1 	LPXTG domain-containing protein
+GI-5- 	 1/3 	Membrane and cell wall protein; adhesion
+GI-51 	 0/5 	 Lipoprotein; Uncharacterized protein 
+GI-53 	 1/2 	 AraC family transcriptional regulator; alpha-galactosidase 
+GI-54 	 4/6 	Membrane transport (ABC); carbohydrate metabolic process
+GI-56 	 3/6 	TVII secretion system
+GI-6 	 16/33 	TII toxin-antitoxin system; biofilm formation; transcriptional reg.
+GI-9 	 9/33 	TII toxin-antitoxin system; LPXTG domain; transcriptional reg.

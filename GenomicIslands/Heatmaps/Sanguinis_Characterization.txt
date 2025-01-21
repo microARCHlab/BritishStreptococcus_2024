@@ -1,0 +1,43 @@
+Genomic Island 	 Fraction of CDS Genes with GO Terms 	Summarized for Chart
+GI-1- 	 1/2 	DNA-templated transcription
+GI-10 	 1/4 	Endonuclease & ATPase activity; uncharacterized  (2)
+GI-11 	 4/4 	Methylation; ABC transporter activity  (incl. bacitracin)
+GI-12 	 2/3 	DNA cytosine methyltransferase; ATP-binding protein
+GI-14 	 2/8 	Transcriptional regulation; DNA repair; TII toxin-antitoxin system
+GI-15 	 0/10 	Type VII secretion; LXG-domain containing proteins; lipoproteins
+GI-16 	 0/4 	Uncharacterized (4)
+GI-17 	 2/5 	Endonuclease, recombinase, & integrase activity
+GI-18 	 2/3 	Xenobiotic membrane transport; methylation; transcriptional reg.
+GI-19 	 4/4 	Membrane transport; carbohydrate binding; conjugal transfer
+GI-2- 	 1/7 	Transcriptional regulation; low temperature requirement protein
+GI-22 	 0/5 	TVII secretion; energy transduction; uncharacterized (3)
+GI-23 	 3/3 	Signal transduction; transcriptional regulation
+GI-24-1 	 0/3 	Uncharacterized (2)
+GI-24-2 	 0/3 	Uncharacterized (3)
+GI-26 	 6/7 	PTS; gluconeogenesis; glycotic process
+GI-27 	 2/2 	DNA replication; chaperoned protein folding
+GI-28 	 2/3 	Heavy metal (incl. Cu) transport & usage; transcriptional reg.
+GI-29 	 2/3 	Oxioreductase activity; low temperature requirement protein
+GI-3- 	 1/6 	Membrane protein; uncharacterized (5)
+GI-31 	 0/5 	TVII secretion
+GI-32 	 3/7 	Potassium transport; acyltransferase & hydrolase activity
+GI-33 	 5/6 	ABC membrane transport (ECF-type); transcriptional reg.
+GI-35 	 4/6 	PTS; carbohyrdrate metabolic process;  transcriptional reg.
+GI-36 	 3/4 	ABC-type amino acid transport
+GI-38 	 3/10 	Stress response; toxic anion resistance; Ca transport
+GI-4- 	 0/4 	TI toxin-antitoxin system; DNA processesing; transcriptional reg.
+GI-40 	 2/2 	Membrane transport (incl. anti-microbial ABC-type)
+GI-41 	 1/2 	Glycosyltransferase activity; mucin binding
+GI-44 	 3/5 	ABC-type membrane transport; toxin system; transcriptional reg.
+GI-47 	 3/6 	Acyltransferase, aminopeptidase, & enol-lactonase activity
+GI-48 	 0/2 	Glutathione S-transferase & magnesium transport activity
+GI-5- 	 0/4 	Surface and lipoprotein
+GI-54 	 0/2 	Uncharacterized (2) 
+GI-56 	 1/4 	Membrane & cell wall modeling; nuclease activity
+GI-57 	 1/2 	Membrane protein; uncharacterized (1)
+GI-59 	 3/3 	ABC-type membrane transport; fatty acid metabolism regulation
+GI-6- 	 3/11 	Lipoprotein; membrane protein; uncharacterized (7)
+GI-69 	 0/3 	 Dicarboxylate/amino acid:cation symporter; lipoprotein
+GI-7- 	 0/1 	 Accessory Sec-dependent serine-rich glycoprotein adhesin 
+GI-8- 	 1/5 	Membrane protein; uncharacterized (4)
+GI-9 	 3/10 	Transcriptional regulation; ATPase activity
