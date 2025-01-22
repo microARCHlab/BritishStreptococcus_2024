@@ -1,0 +1,467 @@
+Fri Sep 20 22:45:01 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.ntref" of length 2342566
+# construct suffix tree for sequence of length 2342566
+# (maximum input length is 2305843009213693948)
+# process 23425 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.ntref 0.82
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.queries.fsa" of length 61995594
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.ntref 51.17
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_CGMH058.ntref 62.25
+4: FINISHING DATA
+Fri Sep 20 22:47:33 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.ntref" of length 2331388
+# construct suffix tree for sequence of length 2331388
+# (maximum input length is 2305843009213693948)
+# process 23313 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.ntref 0.93
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.queries.fsa" of length 59664206
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.ntref 54.86
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC11086.ntref 59.98
+4: FINISHING DATA
+Fri Sep 20 22:50:00 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.ntref" of length 2296928
+# construct suffix tree for sequence of length 2296928
+# (maximum input length is 2305843009213693948)
+# process 22969 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.ntref 0.93
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.queries.fsa" of length 57367278
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.ntref 52.38
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_NCTC7863.ntref 57.73
+4: FINISHING DATA
+Fri Sep 20 22:52:18 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.ntref" of length 2185556
+# construct suffix tree for sequence of length 2185556
+# (maximum input length is 2305843009213693948)
+# process 21855 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.ntref 0.87
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.queries.fsa" of length 55181722
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.ntref 50.63
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_NCTC10231.ntref 55.51
+4: FINISHING DATA
+Fri Sep 20 22:54:33 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.ntref" of length 2121310
+# construct suffix tree for sequence of length 2121310
+# (maximum input length is 2305843009213693948)
+# process 21213 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.ntref 0.83
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.queries.fsa" of length 53060412
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.ntref 47.55
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_gordonii_FDAARGOS371.ntref 53.40
+4: FINISHING DATA
+Fri Sep 20 22:56:40 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.ntref" of length 2000352
+# construct suffix tree for sequence of length 2000352
+# (maximum input length is 2305843009213693948)
+# process 20003 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.ntref 0.77
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.queries.fsa" of length 51060060
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.ntref 45.93
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_cristatus_ATCC51100.ntref 51.35
+4: FINISHING DATA
+Fri Sep 20 22:58:53 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.ntref" of length 1932952
+# construct suffix tree for sequence of length 1932952
+# (maximum input length is 2305843009213693948)
+# process 19329 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.ntref 0.76
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.queries.fsa" of length 49127108
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.ntref 43.05
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_intermedius_NCTC3000.ntref 49.42
+4: FINISHING DATA
+Fri Sep 20 23:00:25 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.ntref" of length 1931549
+# construct suffix tree for sequence of length 1931549
+# (maximum input length is 2305843009213693948)
+# process 19315 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.ntref 0.77
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.queries.fsa" of length 47195559
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.ntref 42.21
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_oralis_NCTC11427.ntref 47.56
+4: FINISHING DATA
+Fri Sep 20 23:02:01 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.ntref" of length 1924514
+# construct suffix tree for sequence of length 1924514
+# (maximum input length is 2305843009213693948)
+# process 19245 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.ntref 0.76
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.queries.fsa" of length 45271045
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.ntref 40.43
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_anginosus_J4211.ntref 45.69
+4: FINISHING DATA
+Fri Sep 20 23:03:28 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.ntref" of length 1915201
+# construct suffix tree for sequence of length 1915201
+# (maximum input length is 2305843009213693948)
+# process 19152 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.ntref 0.74
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.queries.fsa" of length 43355844
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.ntref 38.34
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_mitis_OT25.ntref 43.83
+4: FINISHING DATA
+Fri Sep 20 23:04:49 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.ntref" of length 2134216
+# construct suffix tree for sequence of length 2134216
+# (maximum input length is 2305843009213693948)
+# process 21342 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.ntref 0.87
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.queries.fsa" of length 41221628
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.ntref 35.81
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_SSSC01.ntref 41.98
+4: FINISHING DATA
+Fri Sep 20 23:06:42 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.ntref" of length 2170810
+# construct suffix tree for sequence of length 2170810
+# (maximum input length is 2305843009213693948)
+# process 21708 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.ntref 0.87
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.queries.fsa" of length 39050818
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.ntref 35.13
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_suis_BM407.ntref 39.92
+4: FINISHING DATA
+Fri Sep 20 23:07:36 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.ntref" of length 2170504
+# construct suffix tree for sequence of length 2170504
+# (maximum input length is 2305843009213693948)
+# process 21705 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.ntref 0.85
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.queries.fsa" of length 36880314
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.ntref 32.70
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_parasanguinis_NCTC12854.ntref 37.82
+4: FINISHING DATA
+Fri Sep 20 23:08:37 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.ntref" of length 2033873
+# construct suffix tree for sequence of length 2033873
+# (maximum input length is 2305843009213693948)
+# process 20338 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.ntref 0.77
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.queries.fsa" of length 34846441
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.ntref 30.64
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_massiliensis_UHFR01.ntref 35.73
+4: FINISHING DATA
+Fri Sep 20 23:09:35 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.ntref" of length 2061959
+# construct suffix tree for sequence of length 2061959
+# (maximum input length is 2305843009213693948)
+# process 20619 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.ntref 0.81
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.queries.fsa" of length 32784482
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.ntref 27.59
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_HKU4.ntref 33.76
+4: FINISHING DATA
+Fri Sep 20 23:11:07 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.ntref" of length 2154364
+# construct suffix tree for sequence of length 2154364
+# (maximum input length is 2305843009213693948)
+# process 21543 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.ntref 0.85
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.queries.fsa" of length 30630118
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.ntref 26.72
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_pneumoniae_Hu17.ntref 31.77
+4: FINISHING DATA
+Fri Sep 20 23:12:01 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.ntref" of length 1906857
+# construct suffix tree for sequence of length 1906857
+# (maximum input length is 2305843009213693948)
+# process 19068 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.ntref 0.74
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.queries.fsa" of length 28723261
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.ntref 24.20
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_constellatus_UHFC01.ntref 29.69
+4: FINISHING DATA
+Fri Sep 20 23:12:51 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.ntref" of length 1905994
+# construct suffix tree for sequence of length 1905994
+# (maximum input length is 2305843009213693948)
+# process 19059 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.ntref 0.73
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.queries.fsa" of length 26817267
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.ntref 22.38
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_infantis_ATCC700779.ntref 27.84
+4: FINISHING DATA
+Fri Sep 20 23:13:32 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.ntref" of length 2298357
+# construct suffix tree for sequence of length 2298357
+# (maximum input length is 2305843009213693948)
+# process 22983 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.ntref 0.75
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.queries.fsa" of length 24518910
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.ntref 20.02
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus.ntref 25.99
+4: FINISHING DATA
+Fri Sep 20 23:14:26 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref" of length 2298326
+# construct suffix tree for sequence of length 2298326
+# (maximum input length is 2305843009213693948)
+# process 22983 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 0.78
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.queries.fsa" of length 22220584
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 18.56
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 23.77
+4: FINISHING DATA
+Fri Sep 20 23:15:18 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref" of length 2298328
+# construct suffix tree for sequence of length 2298328
+# (maximum input length is 2305843009213693948)
+# process 22983 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 0.73
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.queries.fsa" of length 19922256
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 16.69
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus.ntref 21.54
+4: FINISHING DATA
+Fri Sep 20 23:16:04 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.ntref" of length 2298298
+# construct suffix tree for sequence of length 2298298
+# (maximum input length is 2305843009213693948)
+# process 22982 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.ntref 0.92
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.queries.fsa" of length 17623958
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.ntref 15.38
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sanguinis_SK405.ntref 19.32
+4: FINISHING DATA
+Fri Sep 20 23:16:54 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.ntref" of length 2298311
+# construct suffix tree for sequence of length 2298311
+# (maximum input length is 2305843009213693948)
+# process 22983 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.ntref 0.69
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.queries.fsa" of length 15325647
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.ntref 13.00
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8893_Sanguinis_competitivemappingconsensus.ntref 17.09
+4: FINISHING DATA
+Fri Sep 20 23:17:32 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.ntref" of length 2206749
+# construct suffix tree for sequence of length 2206749
+# (maximum input length is 2305843009213693948)
+# process 22067 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.ntref 0.88
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.queries.fsa" of length 13118898
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.ntref 10.93
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_MIN085.ntref 14.87
+4: FINISHING DATA
+Fri Sep 20 23:17:56 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.ntref" of length 2119778
+# construct suffix tree for sequence of length 2119778
+# (maximum input length is 2305843009213693948)
+# process 21197 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.ntref 0.82
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.queries.fsa" of length 10999120
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.ntref 8.63
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sinensis_Forsyth1A.ntref 12.73
+4: FINISHING DATA
+Fri Sep 20 23:18:16 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.ntref" of length 2199808
+# construct suffix tree for sequence of length 2199808
+# (maximum input length is 2305843009213693948)
+# process 21998 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.ntref 0.83
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.queries.fsa" of length 8799312
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.ntref 6.45
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Streptococcus_sp_DD04.ntref 10.68
+4: FINISHING DATA
+Fri Sep 20 23:18:29 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.ntref" of length 2199828
+# construct suffix tree for sequence of length 2199828
+# (maximum input length is 2305843009213693948)
+# process 21998 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.ntref 0.68
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.queries.fsa" of length 6599484
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.ntref 4.84
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.BreedonOnTheHill12857_DD04_competitivemappingconsensus.ntref 8.55
+4: FINISHING DATA
+Fri Sep 20 23:18:38 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.ntref" of length 2199838
+# construct suffix tree for sequence of length 2199838
+# (maximum input length is 2305843009213693948)
+# process 21998 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.ntref 0.66
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.queries.fsa" of length 4399646
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.ntref 3.57
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Yorkshire8895_DD04_competitivemappingconsensus.ntref 6.41
+4: FINISHING DATA
+Fri Sep 20 23:18:45 EDT 2024
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.ntref" of length 2199829
+# construct suffix tree for sequence of length 2199829
+# (maximum input length is 2305843009213693948)
+# process 21998 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.ntref 0.71
+# reading input file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.queries.fsa" of length 2199817
+# matching query-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.queries.fsa"
+# against subject-file "/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.ntref"
+# COMPLETETIME /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.ntref 2.09
+# SPACE /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/MUMmer3.20/mummer /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.Hinxton16489_DD04_competitivemappingconsensus.ntref 4.27
+4: FINISHING DATA
+Fri Sep 20 23:18:49 EDT 2024
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_suis_BM407 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sp_DD04 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_massiliensis_UHFR01 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_oralis_NCTC11427 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//BreedonOnTheHill12857_DD04_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Yorkshire8895_DD04_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_intermedius_NCTC3000 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Hinxton16489_DD04_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sanguinis_NCTC7863 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//16918_Medieval_StBenetSherehog_ONE94_Sanguinis_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_parasanguinis_NCTC12854 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_mitis_OT25 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_anginosus_J4211 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//16857_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sinensis_Forsyth1A | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_gordonii_NCTC10231 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_cristatus_ATCC51100 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sinensis_MIN085 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_pneumoniae_Hu17 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//16847_Medieval_MertonPriory_MPY86_Sanguinis_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_constellatus_UHFC01 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sanguinis_NCTC11086 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sanguinis_SK405 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Yorkshire8893_Sanguinis_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sanguinis_CGMH058 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sinensis_SSSC01 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//StHelensOnWalls8875_DD04_competitivemappingconsensus | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_infantis_ATCC700779 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_gordonii_FDAARGOS371 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:cat /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree//Streptococcus_sinensis_HKU4 | perl -ne 'if(/^\>([^\s\:]+)\:([^\s\:]+)/){if($1 ne $2){ print ">$1.$2 $1\n";} elsif(defined $1 && defined $2){print ">$1.$2\n";}else {print ">$1\n";}}else{die if(/\>/);print $_}' >> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa
+CMD:/storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/mugsy_x86-64-v1r2.3/mugsyWGA --outfile /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree --seq /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.all.fsa --aln /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.xmfa --distance 1000 --minlength 30  --unique true  > /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.mugsywga.out 2> /storage/group/LiberalArts/default/lsw132_collab/04_LabMembersFolders/AvaGabrys/Phylogenetics/FinalizingTrees/LargeTreeDD04Placement/CompetitiveMappingLargeDD04Tree/LargeDD04CMTree.mugsywga.stderr
